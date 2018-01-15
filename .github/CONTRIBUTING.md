@@ -9,7 +9,7 @@ We want to make it as easy as possible to contribute changes.
 
 Follow the requirements below for __[Creating Issues](https://github.com/manifestinteractive/weather-bar-api/issues/new)__ and __[Pull Requests](https://github.com/manifestinteractive/weather-bar-api/pull/new)__, to keep everything simple for everyone :)
 
-![inspectocat](https://octodex.github.com/images/inspectocat.png "inspectocat")
+![inspectocat](https://octodex.github.com/images/inspectocat.jpg "inspectocat")
 
 
 Creating an Issue
