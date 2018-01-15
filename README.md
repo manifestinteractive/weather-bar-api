@@ -5,13 +5,13 @@ Weather Bar API
 
 [![Build Status](https://circleci.com/gh/manifestinteractive/weather-bar-api/tree/master.svg?style=shield)](https://circleci.com/gh/manifestinteractive/weather-bar-api/tree/master) [![GitHub contributors](https://img.shields.io/github/contributors/manifestinteractive/weather-bar-api.svg)](https://github.com/manifestinteractive/weather-bar-api/graphs/contributors)
 
-__Weather Bar__ is a collection of tools that make it possible for citizens to be a part of what is happening in their Local, State & Federal Governments.
+__Weather Bar__ is a minimalistic weather menubar application for MacOS, Windows & Linux.
 
 
 Using our API
 ---
 
-Our API is __[Fully Documented](https://api.weatherbarapp.com/guide/)__ using Apiary. Currently, our API is only open for select non-commercial use.  If you are interested in obtaining an API Key ( required for access ), please contact [hello@weatherbar.com](mailto:hello@weatherbar.com).
+Our API is currently only accessible by developers of this project.
 
 Developer Overview
 ---
