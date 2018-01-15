@@ -1,0 +1,196 @@
+FORMAT: 1A
+HOST: https://api.weatherbarapp.com/v1
+
+# API
+
+![Weather Bar Logo](docs/logo.png "Weather Bar Logo")
+
+* _Maintained By:_ __[Peter Schmalfeldt](https://twitter.com/mrmidi)__
+* _Last Modified:_ January 14th, 2018__
+* _Current API Version:_ __v1.0.0__
+
+# Group API Basics
+
+## API Overview
+
+Our API has a default Rate Limit by IP Address to `2500` calls per day. We add the following headers so you can monitor your API Rate:
+
+* __X-Rate-Limit-Limit__: The rate limit ceiling for that given request
+* __X-Rate-Limit-Remaining__: The number of requests left for the 24 hour window
+* __X-Rate-Limit-Reset__: The remaining window before the rate limit resets in UTC [epoch seconds](http://en.wikipedia.org/wiki/Unix_time)
+
+If a specific IP Address exceeds this limit, the API will return a 429 HTTP JSON Response Error.  A sample of this is provided in the Artwork API endpoint.
+
+## API Authentication
+
+Our API requires an API Key to use.  We are not providing API Keys to the general public at this time.  You likely received an API Key before accessing this documentation, if not, please contact the individual who sent you here.
+
+## You can set the API Key one of two ways
+
+#### Request Header:
+
+* __API-Key__ `243CEA2E-7E63-D2C4-3D2D-1A114288274B` _( this is not an actual API Key )_
+
+#### GET Parameter:
+
+* __?apikey=__ `243CEA2E-7E63-D2C4-3D2D-1A114288274B`
+
+### HTTP Request Method Limits
+
+### Common API Responses
+
+The following parameters are available on every API endpoint and used for pagination
+for if there are a lot of results.
+
++ `notices` (array, optional) - An array of API Notices.  These notices are for the API to let the Developer know something that might be helpful, but will not impact the API results.
++ `warnings` (array, optional) - An array of API Warnings.  These warnings explain why the API might have had issues returning results.
++ `errors` (array, optional) - An array of API Errors.  These errors explain why the API prevented returning results.
++ `field_errors` (object, optional) - If the error was in regards to data entry, any errors specific to an input field will return here with the input name and error message.
++ `meta` (object) - The META data object that contains the basic information about the API response.
++ `meta.total` (number) - Total number of all results.  Not just the number returned in the API call.
++ `meta.showing` (number) - Number of results returned in the current API call ( may be less than total results ).
++ `meta.pages` (number) - Number of pages of results.  This is based on the `total` results divided by the `pageSize`.
++ `meta.page` (number) - Current Page
++ `data` (object or array) - This is the the actual data returned for the API call.  For API calls that are expected to return a single result, the `data` will be an Object.  For API calls that are expecting multiple items returned, `data` will be returned as an array ( even if there is only one item returned, such as search results, etc ).
++ `data.weatherbarapp_url` (string) - This will exist for results that have custom pages on the https://weatherbarapp.com website.
+
+__Response 200:__ (application/json)
+
+```
+{
+    "notices": [],
+    "warnings": [],
+    "errors": [],
+    "field_errors": {},
+    "meta": {
+        "total": 97,
+        "showing": 30,
+        "pages": 4,
+        "page": 1
+    },
+    "data": [
+        ...
+    ]
+}
+```
+
+__Response 403:__ (application/json)
+
+```
+{
+    "notices": [],
+    "warnings": [],
+    "errors": ["Missing API Key"],
+    "field_errors": {},
+    "meta": {
+        "total": 0,
+        "showing": 0,
+        "pages": 1,
+        "page": 1
+    },
+    "data": []
+}
+```
+
+### Optional API Params
+
+The following parameters are available on most API endpoint and used for pagination
+for if there are a lot of results.
+
++ `apikey` (string) - Your Weather Bar API Key
++ `fields` (string) - Comma Separated List of fields you want in the response.  By default all public fields will be returned, but if you only need specific fields you can greatly simplify your API response by specifying them.
++ `pageSize` (number, optional) - How many results to return in a single API call. Defaults to 30
++ `page` (number, optional) - If there is more than one page of results, you can set which page to load here
++ `sort` (optional, string, `population_rank`) - Comma Separated List of fields you want to sort by
++ `order` (optional, string, `asc`) - Comma Separated List of Order Methods
++ `pretty` (optional) - If you want to format the JSON response to be human readable, just add a `pretty` param in the API call ( it does not need a value )
+
+### Request Authorization Header:
+
+* __Authorization:__ Bearer `token`
+
+An example API Header would look like this:
+
+```
+curl --data '' https://api.weatherbarapp.com/v1/user/refresh/ -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIyIiwiaWF0IjoxNDUxNzEyNzg0LCJleHAiOjE0NTIzMTc1ODQsImlzcyI6IkRvaW5nIEFQSSJ9.x3eJutiulLnJCJkl_jP9ETj43ihePVeMtaWgWF0I60w"
+```
+
+
+# Group API Access
+
+All access to our API will require an Authentication Token. The following endpoint will
+get your access to endpoints that do not require user authentication.
+
+## Token [/token]
+
+You will not be able to make a request to our API without a `token` sent in an
+Authorization Header.  This `/token` endpoint is the only public endpoint open to
+allow a `token` to be requested.  This endpoint is only required for anonymous users
+that have not logged in.  Once the user logs in, you will need to use the `token` that
+is sent back for that user, as it will be used for authenticating that specific user.
+
+Once a user has logged in, you will need to send over their Authentication
+Token in the HTTP Header.  A `token` is returned with a succesful login.  A session
+token is valid for 7 days.  You can refresh your token to prevent having to log in
+again by either adding the Request Authorization Header below, or using the
+`/v1/user/refresh/` endpoint.
+
+### Get Token [GET]
+
++ Response 200 (application/json)
+
+        {
+          "notices": [],
+          "warnings": [],
+          "errors": [],
+          "field_errors": {},
+          "meta": {
+            "total": 1,
+            "showing": 1,
+            "pages": 1,
+            "page": 1
+          },
+          "data": {
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1MDM4OTUxNDksImV4cCI6MTUwNDQ5OTk0OSwiaXNzIjoiQVBJIn0.TspxNhYI0QYoua7ePagWMyeztWDS-5ciy4wa3LH1YJY"
+          }
+        }
+
+## Refresh Session [/user/refresh]
+
+A `token` is returned with a succesful login.  A session token is valid for 7 days.
+You can refresh your token to prevent having to log in again by either adding the
+Request Authorization Header below. `token` should be the string returned in the
+`token` parameter from a succesful login.
+
+* __Authorization:__ Bearer `token`
+
+### Refresh Session [POST]
+
++ Response 200 (application/json)
+
+        {
+          "notices": [],
+          "warnings": [],
+          "errors": [],
+          "field_errors": {},
+          "meta": {
+            "total": 1,
+            "showing": 1,
+            "pages": 1,
+            "page": 1
+          },
+          "data": {
+            "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOjIsImlhdCI6MTQ1MTc5ODYyMSwiZXhwIjoxNDUyNDAzNDIxLCJpc3MiOiJEb2luZyBBUEkifQ.za4PspEZfeVxydO3QHSFBLm_9PcrCBRwK9HLofBY74s"
+          }
+        }
+
++ Response 400 (application/json)
+
+        {
+          "error": true,
+          "errors": [
+            "Invalid or expired token"
+          ],
+          "meta": {},
+          "data": []
+        }

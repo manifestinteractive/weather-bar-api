@@ -1,0 +1,8 @@
+{
+  "username": "root",
+  "password": "w34th3r^b4R",
+  "database": "weatherbar_api",
+  "host": "database",
+  "dialect": "mysql",
+  "seederStorage": "sequelize"
+}

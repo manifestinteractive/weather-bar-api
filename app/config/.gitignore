@@ -1,0 +1,4 @@
+*.json
+!test.json
+!docker.json
+!db-docker.json
