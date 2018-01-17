@@ -6,7 +6,7 @@ HOST: https://api.weatherbarapp.com/v1
 ![Weather Bar Logo](docs/logo.png "Weather Bar Logo")
 
 * _Maintained By:_ __[Peter Schmalfeldt](https://twitter.com/mrmidi)__
-* _Last Modified:_ January 14th, 2018__
+* _Last Modified:_ __January 17th, 2018__
 * _Current API Version:_ __v1.0.0__
 
 # Group API Basics
@@ -207,7 +207,7 @@ Get Weather Data using an Open Weather Map City ID.
     + apikey (string, optional, `YOUR-API-KEY`) - Your API Key
     + cityid (required, string, `4171563`) - Open Weather Map City ID
 
-### Example: City ID 4171563 [GET]
+### Example: City ID `4171563` [GET]
 
 This example fetches details for the Open Weather Map City ID `4171563` which is my home town of St. Petersburg, FL, USA.
 
@@ -216,9 +216,6 @@ This example fetches details for the Open Weather Map City ID `4171563` which is
         + cityid: `4171563`
 
 + Response 200 (application/json; charset=utf-8)
-    + Attributes
-        + cityid: `4171563`
-
     + Body
 
             {
@@ -291,7 +288,7 @@ Get Weather Data using a Zipcode / Postal Code.
     + apikey (string, optional, `YOUR-API-KEY`) - Your API Key
     + zipcode (required, string, `33701`) - Zipcode / Postal Code
 
-### Example: Zipcode 33701 [GET]
+### Example: Zipcode `33701` [GET]
 
 This example fetches current weather for Zipcode `33701` which is my home town of St. Petersburg, FL, USA.
 
@@ -300,9 +297,6 @@ This example fetches current weather for Zipcode `33701` which is my home town o
         + zipcode: `33701`
 
 + Response 200 (application/json; charset=utf-8)
-    + Attributes
-        + zipcode: `33701`
-
     + Body
 
             {
@@ -369,14 +363,14 @@ This example fetches current weather for Zipcode `33701` which is my home town o
 
 ## Geolocation [/weather/current/geo/{latitude}/{longitude}{?apikey}]
 
-Get Weather Data using an Open Weather Map City ID.
+Get Weather Data using latitude & longitude geolocation coordinates.
 
 + Parameters
     + apikey (string, optional, `YOUR-API-KEY`) - Your API Key
-    + latitude (required, string, `27.7861841`) - Unique Zip Code
-    + latitude (required, string, `-82.6589904`) - Unique Zip Code
+    + latitude (required, number, `27.7861841`) - Unique Zip Code
+    + longitude (required, number, `-82.6589904`) - Unique Zip Code
 
-### Example: 27.7861841, -82.6589904 [GET]
+### Example: `27.7861841`, `-82.6589904` [GET]
 
 This example fetches current weather for Geolocation with a `latitude` of `27.7861841` and `longitude` of `-82.6589904` which is my home town of St. Petersburg, FL, USA.
 
@@ -386,10 +380,6 @@ This example fetches current weather for Geolocation with a `latitude` of `27.78
         + longitude: `-82.6589904`
 
 + Response 200 (application/json; charset=utf-8)
-    + Attributes
-        + latitude: `27.7861841`
-        + longitude: `-82.6589904`
-
     + Body
 
             {
