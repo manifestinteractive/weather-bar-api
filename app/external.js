@@ -31,10 +31,8 @@ module.exports = {
         if (!err && result) {
           var json = JSON.parse(result);
 
-          remaining = moment(json.wbcache.expires).diff(moment(), 'seconds')
-
           json.wbcache.cached = true;
-          json.wbcache.remaining = remaining;
+          json.wbcache.remaining = moment(json.wbcache.expires).diff(moment(), 'seconds');
 
           resolve(JSON.stringify(json));
         } else {
@@ -58,11 +56,11 @@ module.exports = {
               };
 
               if (typeof content === 'object') {
-                content.wbcache = wbcache
+                content.wbcache = wbcache;
                 content = JSON.stringify(content);
               } else {
                 var json = JSON.parse(content);
-                json.wbcache = wbcache
+                json.wbcache = wbcache;
                 content = JSON.stringify(json);
               }
 

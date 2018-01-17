@@ -21,7 +21,7 @@ var router = express.Router(config.router);
 /* istanbul ignore next */
 router.route('/weather/current/id/:cityid').get(function(request, response) {
   var id = request.params.cityid;
-  var url = 'https://api.openweathermap.org/data/2.5/weather?id=' + id + '&appid=' + config.get('openweathermap.key')
+  var url = 'https://api.openweathermap.org/data/2.5/weather?id=' + id + '&appid=' + config.get('openweathermap.key');
 
   external.getContent(url).then(function (content){
     var weather = JSON.parse(content);
@@ -53,7 +53,7 @@ router.route('/weather/current/id/:cityid').get(function(request, response) {
 /* istanbul ignore next */
 router.route('/weather/current/zipcode/:zipcode').get(function(request, response) {
   var zipcode = request.params.zipcode;
-  var url = 'https://api.openweathermap.org/data/2.5/weather?zip=' + zipcode + '&appid=' + config.get('openweathermap.key')
+  var url = 'https://api.openweathermap.org/data/2.5/weather?zip=' + zipcode + '&appid=' + config.get('openweathermap.key');
 
   external.getContent(url).then(function (content){
     var weather = JSON.parse(content);
@@ -87,7 +87,7 @@ router.route('/weather/current/zipcode/:zipcode').get(function(request, response
 router.route('/weather/current/geo/:latitude/:longitude').get(function(request, response) {
   var latitude = request.params.latitude;
   var longitude = request.params.longitude;
-  var url = 'https://api.openweathermap.org/data/2.5/weather?lat=' + latitude + '&lon=' + longitude + '&appid=' + config.get('openweathermap.key')
+  var url = 'https://api.openweathermap.org/data/2.5/weather?lat=' + latitude + '&lon=' + longitude + '&appid=' + config.get('openweathermap.key');
 
   external.getContent(url).then(function (content){
     var weather = JSON.parse(content);
