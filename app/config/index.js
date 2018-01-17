@@ -17,8 +17,6 @@ var convict = require('convict');
  * @property {number} port=5000 - The port to bind to
  * @property {string} version=v1 - API Version Number ( in URL )
  * @property {string} sessionKey - Express Session Key
- * @property {boolean} inviteOnly=false - Whether Invite Only System should be Active
- * @property {number} inviteCap=15 - Invitation Cap Per User
  * @property {string} bugsnag - Bugsnag API Key
  * @property {object} hashID - Settings for Hash ID
  * @property {string} hashID.secret - Hash ID Encryption Key
@@ -37,8 +35,8 @@ var convict = require('convict');
  * @property {object} elasticsearch - Elasticsearch Settings
  * @property {string} elasticsearch.host - The Elasticsearch host/connection string/URL
  * @property {string} elasticsearch.indexName - The name of the API Elasticsearch index
- * @property {object} mandrill - Mandrill Settings
- * @property {string} mandrill.key - API Key for Mandrill, which is used for sending email. Can be retrieved/changed at: {@link https://mandrillapp.com/settings/}
+ * @property {object} openweathermap - Open Weather Map Settings
+ * @property {string} openweathermap.key - API Key for Open Weather Map
  */
 var config = convict({
   devFlags: {
@@ -90,18 +88,6 @@ var config = convict({
     format: String,
     default: '4D393E9A-5A83-37B4-6929-53C5231AA813',
     env: 'API_SESSION_KEY'
-  },
-  inviteOnly: {
-    doc: 'Whether Invite Only System should be Active',
-    format: Boolean,
-    default: false,
-    env: 'API_INVITE_ONLY'
-  },
-  inviteCap: {
-    doc: 'Invitation Cap Per User',
-    format: Number,
-    default: 15,
-    env: 'API_INVITE_CAP'
   },
   bugsnag: {
     doc: 'Bugsnag API Key',
@@ -209,11 +195,11 @@ var config = convict({
       default: 'error'
     }
   },
-  mandrill: {
+  openweathermap: {
     key: {
-      doc: 'API Key for Mandrill, which is used for sending email. Can be retrieved/changed at: https://mandrillapp.com/settings/',
+      doc: 'API Key for OpenWeatherMap.org, which is used for fetching email. Can be retrieved/changed at: http://openweathermap.org/api',
       format: String,
-      env: 'API_MANDRILL_API_KEY'
+      env: 'API_OPENWEATHERMAP_API_KEY'
     }
   },
   ipinfodb: {
@@ -264,10 +250,10 @@ var config = convict({
       default: null
     },
     cacheExpire: {
-      doc: 'How long to cache results in redis',
+      doc: 'How long to cache results in redis in seconds',
       format: Number,
       env: 'API_REDIS_CACHE_EXPIRE',
-      default: 21600
+      default: 900 // 900 = 15 minutes
     }
   }
 });

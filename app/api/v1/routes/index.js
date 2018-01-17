@@ -15,6 +15,7 @@ var profile = require('./profile');
 var settings = require('./settings');
 var token = require('./token');
 var unauthorized = require('./unauthorized');
+var weather = require('./weather');
 
 var API_VERSION = config.get('version');
 
@@ -27,5 +28,6 @@ router.use('/' + API_VERSION + '/', profile);
 router.use('/' + API_VERSION + '/', settings);
 router.use('/' + API_VERSION + '/', token);
 router.use('/' + API_VERSION + '/', unauthorized);
+router.use('/' + API_VERSION + '/', weather);
 
 module.exports = router;

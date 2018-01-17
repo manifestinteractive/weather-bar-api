@@ -71,7 +71,7 @@ For example, if you are setting up a `local` environment, you would need to crea
       "password": ""
     }
   },
-  "mandrill": {
+  "openweathermap": {
     "key": "CHANGE_ME"
   },
   "ipinfodb": {

@@ -14,8 +14,6 @@ describe('Config', function() {
       assert.isDefined(config.get('port'));
       assert.isDefined(config.get('version'));
       assert.isDefined(config.get('sessionKey'));
-      assert.isDefined(config.get('inviteOnly'));
-      assert.isDefined(config.get('inviteCap'));
       assert.isDefined(config.get('bugsnag'));
       assert.isDefined(config.get('hashID.secret'));
       assert.isDefined(config.get('hashID.length'));
@@ -32,7 +30,7 @@ describe('Config', function() {
       assert.isDefined(config.get('elasticsearch.apiVersion'));
       assert.isDefined(config.get('elasticsearch.requestTimeout'));
       assert.isDefined(config.get('elasticsearch.log'));
-      assert.isDefined(config.get('mandrill.key'));
+      assert.isDefined(config.get('openweathermap.key'));
       assert.isDefined(config.get('openStates.key'));
       assert.isDefined(config.get('logzio.token'));
       assert.isDefined(config.get('logzio.type'));

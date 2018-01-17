@@ -28,6 +28,7 @@ module.exports = {
       pages: 1,
       page: 1
     },
+    cache: {},
     data: []
   },
 
@@ -112,8 +113,8 @@ module.exports = {
     try {
       var params = {
         key: config.get('ipinfodb.key'),
-        ip: ip,
-        format: 'json'
+        format: 'json',
+        ip: ip
       };
 
       request.get({ url: 'https://api.ipinfodb.com/v3/ip-city/', qs: params }, function(error, response, geolocation){
@@ -138,19 +139,7 @@ module.exports = {
       });
     }
     catch (error) {
-      callback({
-        statusCode: 'OK',
-        statusMessage: '',
-        ipAddress: ip,
-        countryCode: null,
-        countryName: null,
-        regionName: null,
-        cityName: null,
-        zipCode: null,
-        latitude: null,
-        longitude: null,
-        timeZone: null
-      });
+      callback(null);
     }
   },
 

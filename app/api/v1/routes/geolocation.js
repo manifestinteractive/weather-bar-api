@@ -6,6 +6,7 @@
  */
 
 var express = require('express');
+var moment = require('moment');
 var config = require('../../../config');
 var util = require('./util');
 var ipaddr = require('ipaddr.js');
@@ -44,21 +45,40 @@ router.route('/geolocation/ip/:ipaddress?').get(function(request, response) {
           var cleanData = {
             ip_address: addr,
             city: results.city.names.en,
-            state: (results.subdivisions && results.subdivisions.length > 0) ? results.subdivisions[0].iso_code : null,
+            region: (results.subdivisions && results.subdivisions.length > 0) ? results.subdivisions[0].iso_code : null,
             postalcode: (results.postal && typeof results.postal.code !== 'undefined') ? results.postal.code : null,
             country: results.country.iso_code,
             latitude: results.location.latitude,
             longitude: results.location.longitude,
-            time_zone: results.location.time_zone
+            time_zone: moment().tz(results.location.time_zone).format('Z')
           };
 
           response.json(util.createAPIResponse({
             data: cleanData
           }, request.query.fields));
         } else {
-          response.json(util.createAPIResponse({
-            data: results
-          }, request.query.fields));
+          util.getGeoLocation(addr, function (geolocation) {
+            if (geolocation && geolocation.statusCode === 'OK' && geolocation.cityName !== '-') {
+              var cleanData = {
+                ip_address: geolocation.ipAddress,
+                city: geolocation.cityName,
+                region: geolocation.regionName,
+                postalcode: geolocation.zipCode,
+                country: geolocation.countryCode,
+                latitude: geolocation.latitude,
+                longitude: geolocation.longitude,
+                time_zone: geolocation.timeZone
+              };
+
+              response.json(util.createAPIResponse({
+                data: cleanData
+              }, request.query.fields));
+            } else {
+              response.json(util.createAPIResponse({
+                data: null
+              }, request.query.fields));
+            }
+          });
         }
       })
       .catch(function (error) {

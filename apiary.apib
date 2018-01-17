@@ -194,3 +194,261 @@ Request Authorization Header below. `token` should be the string returned in the
           "meta": {},
           "data": []
         }
+
+# Group Current Weather
+
+Weather API End Points.  These endpoints are mereley a cached proxy of OpenWeatherMaps.org data.  Each query is cached for 15 minutes ( 900 seconds ).
+
+## City ID [/weather/current/id/{cityid}{?apikey}]
+
+Get Weather Data using an Open Weather Map City ID.
+
++ Parameters
+    + apikey (string, optional, `YOUR-API-KEY`) - Your API Key
+    + cityid (required, string, `4171563`) - Open Weather Map City ID
+
+### Example: City ID 4171563 [GET]
+
+This example fetches details for the Open Weather Map City ID `4171563` which is my home town of St. Petersburg, FL, USA.
+
++ Request
+    + Parameters
+        + cityid: `4171563`
+
++ Response 200 (application/json; charset=utf-8)
+    + Attributes
+        + cityid: `4171563`
+
+    + Body
+
+            {
+              "notices": [],
+              "warnings": [],
+              "errors": [],
+              "field_errors": {},
+              "meta": {
+                "total": 1,
+                "showing": 1,
+                "pages": 1,
+                "page": 1
+              },
+              "cache": {
+                "cached": true,
+                "created": "2018-01-17 00:07:29 -05:00",
+                "expires": "2018-01-17 00:22:29 -05:00",
+                "remaining": 889
+              },
+              "data": {
+                "base": "stations",
+                "clouds": {
+                  "all": 1
+                },
+                "cod": 200,
+                "coord": {
+                  "lon": -82.68,
+                  "lat": 27.77
+                },
+                "dt": 1516163700,
+                "id": 4171563,
+                "main": {
+                  "temp": 286.4,
+                  "pressure": 1026,
+                  "humidity": 87,
+                  "temp_min": 285.15,
+                  "temp_max": 289.15
+                },
+                "name": "Saint Petersburg",
+                "sys": {
+                  "type": 1,
+                  "id": 726,
+                  "message": 0.0051,
+                  "country": "US",
+                  "sunrise": 1516191753,
+                  "sunset": 1516229973
+                },
+                "visibility": 16093,
+                "weather": [
+                  {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                  }
+                ],
+                "wind": {
+                  "speed": 2.1,
+                  "deg": 80
+                }
+              }
+            }
+
+
+## Zipcode [/weather/current/zipcode/{zipcode}{?apikey}]
+
+Get Weather Data using a Zipcode / Postal Code.
+
++ Parameters
+    + apikey (string, optional, `YOUR-API-KEY`) - Your API Key
+    + zipcode (required, string, `33701`) - Zipcode / Postal Code
+
+### Example: Zipcode 33701 [GET]
+
+This example fetches current weather for Zipcode `33701` which is my home town of St. Petersburg, FL, USA.
+
++ Request
+    + Parameters
+        + zipcode: `33701`
+
++ Response 200 (application/json; charset=utf-8)
+    + Attributes
+        + zipcode: `33701`
+
+    + Body
+
+            {
+              "notices": [],
+              "warnings": [],
+              "errors": [],
+              "field_errors": {},
+              "meta": {
+                "total": 1,
+                "showing": 1,
+                "pages": 1,
+                "page": 1
+              },
+              "cache": {
+                "cached": true,
+                "created": "2018-01-17 00:07:29 -05:00",
+                "expires": "2018-01-17 00:22:29 -05:00",
+                "remaining": 889
+              },
+              "data": {
+                "base": "stations",
+                "clouds": {
+                  "all": 1
+                },
+                "cod": 200,
+                "coord": {
+                  "lon": -82.68,
+                  "lat": 27.77
+                },
+                "dt": 1516163700,
+                "id": 4171563,
+                "main": {
+                  "temp": 286.4,
+                  "pressure": 1026,
+                  "humidity": 87,
+                  "temp_min": 285.15,
+                  "temp_max": 289.15
+                },
+                "name": "Saint Petersburg",
+                "sys": {
+                  "type": 1,
+                  "id": 726,
+                  "message": 0.0051,
+                  "country": "US",
+                  "sunrise": 1516191753,
+                  "sunset": 1516229973
+                },
+                "visibility": 16093,
+                "weather": [
+                  {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                  }
+                ],
+                "wind": {
+                  "speed": 2.1,
+                  "deg": 80
+                }
+              }
+            }
+
+
+## Geolocation [/weather/current/geo/{latitude}/{longitude}{?apikey}]
+
+Get Weather Data using an Open Weather Map City ID.
+
++ Parameters
+    + apikey (string, optional, `YOUR-API-KEY`) - Your API Key
+    + latitude (required, string, `27.7861841`) - Unique Zip Code
+    + latitude (required, string, `-82.6589904`) - Unique Zip Code
+
+### Example: 27.7861841, -82.6589904 [GET]
+
+This example fetches current weather for Geolocation with a `latitude` of `27.7861841` and `longitude` of `-82.6589904` which is my home town of St. Petersburg, FL, USA.
+
++ Request
+    + Parameters
+        + latitude: `27.7861841`
+        + longitude: `-82.6589904`
+
++ Response 200 (application/json; charset=utf-8)
+    + Attributes
+        + latitude: `27.7861841`
+        + longitude: `-82.6589904`
+
+    + Body
+
+            {
+              "notices": [],
+              "warnings": [],
+              "errors": [],
+              "field_errors": {},
+              "meta": {
+                "total": 1,
+                "showing": 1,
+                "pages": 1,
+                "page": 1
+              },
+              "cache": {
+                "cached": true,
+                "created": "2018-01-17 00:07:29 -05:00",
+                "expires": "2018-01-17 00:22:29 -05:00",
+                "remaining": 889
+              },
+              "data": {
+                "base": "stations",
+                "clouds": {
+                  "all": 1
+                },
+                "cod": 200,
+                "coord": {
+                  "lon": -82.68,
+                  "lat": 27.77
+                },
+                "dt": 1516163700,
+                "id": 4171563,
+                "main": {
+                  "temp": 286.4,
+                  "pressure": 1026,
+                  "humidity": 87,
+                  "temp_min": 285.15,
+                  "temp_max": 289.15
+                },
+                "name": "Saint Petersburg",
+                "sys": {
+                  "type": 1,
+                  "id": 726,
+                  "message": 0.0051,
+                  "country": "US",
+                  "sunrise": 1516191753,
+                  "sunset": 1516229973
+                },
+                "visibility": 16093,
+                "weather": [
+                  {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                  }
+                ],
+                "wind": {
+                  "speed": 2.1,
+                  "deg": 80
+                }
+              }
+            }
