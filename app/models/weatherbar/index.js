@@ -9,5 +9,6 @@
  * @type {object}
  */
 module.exports = {
+  OwmCityList: require('./owm_city_list'),
   UserSettings: require('./user_settings')
 };

@@ -23,8 +23,12 @@ module.exports = {
    * @param {string} url - URL of Content to Fetch
    * @returns {bluebird|exports|module.exports}
    */
-  getContent: function(url) {
+  getContent: function(url, expires) {
     var cacheKey = md5(url);
+
+    if (!expires) {
+      expires = redisCacheExpires;
+    }
 
     return new Promise(function (resolve, reject) {
       redisClient.get(cacheKey, function (err, result) {
@@ -51,8 +55,8 @@ module.exports = {
               var wbcache = {
                 cached: false,
                 created: moment().format('YYYY-MM-DD HH:mm:ss Z'),
-                expires: moment().add(redisCacheExpires, 'Seconds').format('YYYY-MM-DD HH:mm:ss Z'),
-                remaining: redisCacheExpires
+                expires: moment().add(expires, 'Seconds').format('YYYY-MM-DD HH:mm:ss Z'),
+                remaining: expires
               };
 
               if (typeof content === 'object') {
