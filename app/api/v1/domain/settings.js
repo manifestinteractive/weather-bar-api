@@ -4,47 +4,48 @@
  * @author Peter Schmalfeldt <me@peterschmalfeldt.com>
  */
 
-var _ = require('lodash');
-var Promise = require('bluebird');
-
-var User = require('../../../models/api/users');
-var UserSettings = require('../../../models/weatherbar/user_settings.js');
-
-var UserES = require('../../../elasticsearch/update/user');
-
-/* istanbul ignore next */
-User.hook('afterCreate', function(user){ UserES.update(user.id); });
-
-/* istanbul ignore next */
-User.hook('afterUpdate', function(user){ UserES.update(user.id); });
-
-/* istanbul ignore next */
-User.hook('afterDestroy', function(user){ UserES.update(user.id); });
+var Settings = require('../../../models/weatherbar/settings.js');
 
 /**
  * Domain Settings
  * @type {object}
  */
 module.exports = {
-
-  getSettings: function (userId) {
-    // Set defaults for API before overwriting below
-    return UserSettings.findOne({
+  get: function (uuid) {
+    return Settings.findOne({
       where: {
-        user_id: userId
+        uuid: uuid
       }
     })
-    .then(function(user_settings) {
-
-      var settings = {
-        theme: 'pink-orange'
-      };
-
-      if (user_settings && user_settings.theme) {
-        settings.theme = user_settings.theme;
-      }
-
-      return settings;
+    .then(function(settings) {
+      return (settings) ? settings.dataValues : null;
     });
+  },
+  init: function (uuid) {
+    return Settings.create({
+      uuid: uuid
+    })
+    .then(function(created) {
+      return (created) ? created.dataValues : null;
+    });
+  },
+  update: function (uuid, key, value) {
+    if (uuid && key && value) {
+      return Settings.findOne({
+          where: {
+            uuid: uuid
+          }
+        })
+        .then(function(user) {
+          if (user) {
+            user.set(key, value);
+            return user.save();
+          } else {
+            return Promise.reject('No user found with ID ' + uuid);
+          }
+        });
+    } else {
+      return Promise.reject('Request Invalid');
+    }
   }
 };

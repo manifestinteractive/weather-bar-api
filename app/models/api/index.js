@@ -10,7 +10,5 @@
  */
 module.exports = {
   ApiAuthentication: require('./api_authentication'),
-  UserActivity: require('./user_activity'),
-  UserLogin: require('./user_login'),
   User: require('./users')
 };

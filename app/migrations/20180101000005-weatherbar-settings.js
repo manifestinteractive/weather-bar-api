@@ -1,6 +1,6 @@
 'use strict';
 
-var Model = require('../models').API.UserLogin;
+var Model = require('../models').WeatherBar.Settings;
 
 module.exports = {
   up: function (queryInterface) {

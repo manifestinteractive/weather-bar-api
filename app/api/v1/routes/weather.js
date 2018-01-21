@@ -26,8 +26,14 @@ router.route('/weather/current/id/:cityid').get(function(request, response) {
   external.getContent(url, 900).then(function (content){
     var weather = JSON.parse(content);
     var cache = weather.wbcache;
-
     delete weather.wbcache;
+
+    if (!cache.cached) {
+      response.setHeader("Cache-Control", "public, max-age=900");
+      response.setHeader("Expires", new Date(Date.now() + 900000).toUTCString());
+    } else {
+      response.status(304);
+    }
 
     response.json(util.createAPIResponse({
       cache: cache,
@@ -58,8 +64,14 @@ router.route('/weather/current/zipcode/:zipcode').get(function(request, response
   external.getContent(url, 900).then(function (content){
     var weather = JSON.parse(content);
     var cache = weather.wbcache;
-
     delete weather.wbcache;
+
+    if (!cache.cached) {
+      response.setHeader("Cache-Control", "public, max-age=900");
+      response.setHeader("Expires", new Date(Date.now() + 900000).toUTCString());
+    } else {
+      response.status(304);
+    }
 
     response.json(util.createAPIResponse({
       cache: cache,
@@ -92,8 +104,14 @@ router.route('/weather/current/geo/:latitude/:longitude').get(function(request, 
   external.getContent(url, 900).then(function (content){
     var weather = JSON.parse(content);
     var cache = weather.wbcache;
-
     delete weather.wbcache;
+
+    if (!cache.cached) {
+      response.setHeader("Cache-Control", "public, max-age=900");
+      response.setHeader("Expires", new Date(Date.now() + 900000).toUTCString());
+    } else {
+      response.status(304);
+    }
 
     response.json(util.createAPIResponse({
       cache: cache,

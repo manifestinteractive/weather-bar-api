@@ -5,13 +5,16 @@
  */
 
 var User = require('./user');
+var OwmCityList = require('./owm_city_list');
 
 User.update();
+OwmCityList.update();
 
 /**
  * Update
  * @type {object}
  */
 module.exports = {
-  User: User
+  User: User,
+  OwmCityList: OwmCityList
 };

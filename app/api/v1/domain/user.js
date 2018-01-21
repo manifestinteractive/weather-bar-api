@@ -5,13 +5,6 @@
  */
 
 var _ = require('lodash');
-var User = require('../../../models/api/users');
-var md5 = require('md5');
-var randomString = require('randomstring');
-var hasher = require('../../../util/hasher');
-var routeUtil = require('../routes/util');
-var Hashids = require('hashids');
-var config = require('../../../config');
 
 /**
  * Domain User
@@ -48,24 +41,6 @@ module.exports = {
 
   /**
    * Prepare For Elastic Search
-   * @param {object} data - Data to be Processed for Elastic Search
-   * @param {number} data.id - User ID
-   * @param {string} data.bio - User Bio
-   * @param {string} data.company_name - User Company Name
-   * @param {string} data.email - User Email Address
-   * @param {string} data.first_name - User First Name
-   * @param {string} data.hash_id - User Hash ID
-   * @param {timestamp} data.join_date - User Join Date
-   * @param {string} data.last_name - User Last Name
-   * @param {string} data.location - User Location
-   * @param {string} data.profile_link_1 - User Misc Link #1
-   * @param {string} data.profile_link_2 - User Misc Link #2
-   * @param {string} data.profile_link_3 - User Misc Link #3
-   * @param {string} data.profile_link_twitter - User Twitter Link
-   * @param {string} data.profile_link_website - User Website Link
-   * @param {string} data.profile_name - User Profile Name
-   * @param {string} data.profile_photo - User Profile Photo URL
-   * @param {string} data.username - Users Username
    * @return {object}
    */
   prepareForElasticSearch: function(data) {

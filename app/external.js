@@ -33,12 +33,7 @@ module.exports = {
     return new Promise(function (resolve, reject) {
       redisClient.get(cacheKey, function (err, result) {
         if (!err && result) {
-          var json = JSON.parse(result);
-
-          json.wbcache.cached = true;
-          json.wbcache.remaining = moment(json.wbcache.expires).diff(moment(), 'seconds');
-
-          resolve(JSON.stringify(json));
+          resolve(result);
         } else {
           var lib = url.startsWith('https') ? require('https') : require('http');
           var request = lib.get(url, function (response) {
@@ -53,10 +48,8 @@ module.exports = {
             response.on('end', function () {
               var content = body.join('');
               var wbcache = {
-                cached: false,
                 created: moment().format('YYYY-MM-DD HH:mm:ss Z'),
-                expires: moment().add(expires, 'Seconds').format('YYYY-MM-DD HH:mm:ss Z'),
-                remaining: expires
+                expires: moment().add(expires, 'Seconds').format('YYYY-MM-DD HH:mm:ss Z')
               };
 
               if (typeof content === 'object') {

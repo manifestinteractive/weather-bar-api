@@ -97,8 +97,7 @@ var OwmCityList = db.dbApi.define('owm_city_list', {
   postal_code: {
     type: DataTypes.STRING(25),
     allowNull: true
-  },
-
+  }
 }, {
   indexes: [
     {

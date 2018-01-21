@@ -9,7 +9,7 @@
  */
 module.exports = {
   Geolocation: require('./geolocation'),
-  Profile: require('./profile'),
+  OwmCityList: require('./owm_city_list'),
   Settings: require('./settings'),
   User: require('./user'),
   Util: require('./util')

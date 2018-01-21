@@ -9,8 +9,6 @@ var request = require('request');
 var jwt = require('jsonwebtoken');
 
 var config = require('../../../config');
-var Activity = require('../../../models/api/user_activity');
-var Login = require('../../../models/api/user_login');
 
 /* istanbul ignore next */
 module.exports = {
@@ -28,7 +26,6 @@ module.exports = {
       pages: 1,
       page: 1
     },
-    cache: {},
     data: []
   },
 
@@ -140,61 +137,6 @@ module.exports = {
     }
     catch (error) {
       callback(null);
-    }
-  },
-
-  /**
-   * Track User Login
-   * @param {object} user - User Object
-   * @param {object} request - Node HTTP Request
-   */
-  trackLogin: function(user, request){
-
-    var ipAddress = request.headers['x-forwarded-for'];
-    var userAgent = request.headers['user-agent'];
-
-    if (typeof user !== 'undefined' && typeof user.get('id') !== 'undefined') {
-      this.getGeoLocation(ipAddress, function(geolocation){
-        Login.create({
-          user_id: user.get('id'),
-          user_agent: userAgent,
-          ip_address: geolocation.ipAddress,
-          country: geolocation.countryCode,
-          city: geolocation.cityName,
-          state: geolocation.regionName,
-          postal_code: geolocation.zipCode,
-          latitude: geolocation.latitude,
-          longitude: geolocation.longitude
-        });
-      });
-    }
-  },
-
-  /**
-   * Track User Activity
-   * @param {number} user_id - Logged In User ID
-   * @param {string} type - Type of User Activity
-   * @param {object} data - Data to Track
-   * @param {callback} callback - Requested Callback Handler
-   * @returns {*}
-   */
-  trackActivity: function(user_id, type, data, callback){
-    if(user_id && type){
-
-      var log = {
-        user_id: user_id,
-        type: type
-      };
-
-      if(data && data.follow_user_id){
-        log.follow_user_id = data.follow_user_id;
-      }
-
-      Activity.create(log);
-    }
-
-    if(typeof callback === 'function'){
-      return callback();
     }
   },
 
