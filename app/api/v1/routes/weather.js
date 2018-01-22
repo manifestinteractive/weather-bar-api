@@ -23,14 +23,14 @@ router.route('/weather/current/id/:cityid').get(function(request, response) {
   var id = request.params.cityid;
   var url = 'https://api.openweathermap.org/data/2.5/weather?id=' + id + '&appid=' + config.get('openweathermap.key');
 
-  external.getContent(url, 900).then(function (content){
+  external.getContent(url, 300).then(function (content){
     var weather = JSON.parse(content);
     var cache = weather.wbcache;
     delete weather.wbcache;
 
     if (!cache.cached) {
-      response.setHeader("Cache-Control", "public, max-age=900");
-      response.setHeader("Expires", new Date(Date.now() + 900000).toUTCString());
+      response.setHeader("Cache-Control", "public, max-age=300");
+      response.setHeader("Expires", new Date(Date.now() + 300000).toUTCString());
     } else {
       response.status(304);
     }
@@ -61,14 +61,14 @@ router.route('/weather/current/zipcode/:zipcode').get(function(request, response
   var zipcode = request.params.zipcode;
   var url = 'https://api.openweathermap.org/data/2.5/weather?zip=' + zipcode + '&appid=' + config.get('openweathermap.key');
 
-  external.getContent(url, 900).then(function (content){
+  external.getContent(url, 300).then(function (content){
     var weather = JSON.parse(content);
     var cache = weather.wbcache;
     delete weather.wbcache;
 
     if (!cache.cached) {
-      response.setHeader("Cache-Control", "public, max-age=900");
-      response.setHeader("Expires", new Date(Date.now() + 900000).toUTCString());
+      response.setHeader("Cache-Control", "public, max-age=300");
+      response.setHeader("Expires", new Date(Date.now() + 300000).toUTCString());
     } else {
       response.status(304);
     }
@@ -101,14 +101,14 @@ router.route('/weather/current/geo/:latitude/:longitude').get(function(request, 
   var longitude = request.params.longitude;
   var url = 'https://api.openweathermap.org/data/2.5/weather?lat=' + latitude + '&lon=' + longitude + '&appid=' + config.get('openweathermap.key');
 
-  external.getContent(url, 900).then(function (content){
+  external.getContent(url, 300).then(function (content){
     var weather = JSON.parse(content);
     var cache = weather.wbcache;
     delete weather.wbcache;
 
     if (!cache.cached) {
-      response.setHeader("Cache-Control", "public, max-age=900");
-      response.setHeader("Expires", new Date(Date.now() + 900000).toUTCString());
+      response.setHeader("Cache-Control", "public, max-age=300");
+      response.setHeader("Expires", new Date(Date.now() + 300000).toUTCString());
     } else {
       response.status(304);
     }
