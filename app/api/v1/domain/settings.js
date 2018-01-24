@@ -36,10 +36,12 @@ module.exports = {
             uuid: uuid
           }
         })
-        .then(function(user) {
-          if (user) {
-            user.set(key, value);
-            return user.save();
+        .then(function(settings) {
+          if (settings) {
+            settings.set(key, value);
+            settings.save();
+
+            return (settings) ? settings.dataValues : null;
           } else {
             return Promise.reject('No user found with ID ' + uuid);
           }

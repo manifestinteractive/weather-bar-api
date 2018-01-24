@@ -112,8 +112,8 @@ module.exports = {
     searchParams.from = (page - 1) * searchParams.size;
 
     // Sorting
-    var sort = (query.sort) ? query.sort.split(',') : ['owm_country', 'locality_long', 'admin_level_1_long'];
-    var order = (query.order) ? query.order.toLowerCase().split(',') : ['asc', 'asc', 'asc'];
+    var sort = (query.sort) ? query.sort.split(',') : ['display_name_short'];
+    var order = (query.order) ? query.order.toLowerCase().split(',') : ['asc'];
 
     searchParams.body.sort = {};
 
@@ -135,16 +135,16 @@ module.exports = {
       for (var i = 0; i < keywords.length; i++) {
         andFilters.push({
           multi_match: {
-            query: keywords[i],
-            type: 'phrase',
+            query: '*' + keywords[i] + '*',
+            type: 'best_fields',
             fields: [
+              'admin_level_1_long',
+              'admin_level_1_short',
+              'admin_level_2_long',
+              'admin_level_2_short',
               'owm_city_id',
               'locality_short',
               'locality_long',
-              'admin_level_1_short',
-              'admin_level_1_long',
-              'admin_level_2_short',
-              'admin_level_2_long',
               'postal_code',
               'display_name_long',
               'display_name_short'
