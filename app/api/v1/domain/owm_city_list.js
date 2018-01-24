@@ -41,13 +41,13 @@ module.exports = {
    * @return {object}
    */
   prepareForElasticSearch: function(data) {
-    var displayNameShort = (data.locality_long && data.owm_city_name !== data.locality_long)
-      ? data.locality_short + ' ( ' + data.owm_city_name + ' ), ' + data.admin_level_1_short + ', ' + data.country_short
-      : data.owm_city_name + ', ' + data.admin_level_1_short + ', ' + data.country_short;
+    var displayNameShort = (data.locality_long && data.owm_city_name !== data.locality_long) ?
+      data.locality_short + ' ( ' + data.owm_city_name + ' ), ' + data.admin_level_1_short + ', ' + data.country_short :
+      data.owm_city_name + ', ' + data.admin_level_1_short + ', ' + data.country_short;
 
-    var displayNameLong = (data.locality_long && data.owm_city_name !== data.locality_long)
-      ? data.locality_long + ' ( ' + data.owm_city_name + ' ), ' + data.admin_level_1_long + ', ' + data.country_long
-      : data.owm_city_name + ', ' + data.admin_level_1_long + ', ' + data.country_long;
+    var displayNameLong = (data.locality_long && data.owm_city_name !== data.locality_long) ?
+      data.locality_long + ' ( ' + data.owm_city_name + ' ), ' + data.admin_level_1_long + ', ' + data.country_long :
+      data.owm_city_name + ', ' + data.admin_level_1_long + ', ' + data.country_long;
 
     return {
       owm_city_id: data.owm_city_id,
@@ -79,6 +79,7 @@ module.exports = {
    */
   search: function (query) {
     // Defaults
+    var i = 0;
     var andFilters;
     var pageSize = DEFAULT_PAGE_SIZE;
     var page = 1;
@@ -117,7 +118,7 @@ module.exports = {
 
     searchParams.body.sort = {};
 
-    for (var i = 0; i < sort.length; i++) {
+    for (i = 0; i < sort.length; i++) {
       var sortOrder = (typeof order[i] !== 'undefined' && ( order[i] === 'asc' || order[i] === 'desc' )) ? order[i] : 'asc';
       searchParams.body.sort[sort[i]] = {
         order: sortOrder
@@ -132,7 +133,7 @@ module.exports = {
 
       var keywords = query.keyword.replace(/[^0-9a-z' ]/gi, '').split(' ');
 
-      for (var i = 0; i < keywords.length; i++) {
+      for (i = 0; i < keywords.length; i++) {
         andFilters.push({
           multi_match: {
             query: '*' + keywords[i] + '*',
