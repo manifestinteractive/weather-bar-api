@@ -24,6 +24,38 @@ var Settings = db.dbApi.define('settings', {
     type: DataTypes.STRING(36),
     allowNull: false
   },
+  current_city: {
+    type: DataTypes.STRING(100),
+    allowNull: true
+  },
+  current_country: {
+    type: DataTypes.STRING(2),
+    allowNull: true
+  },
+  current_ip_address: {
+    type: DataTypes.STRING(15),
+    allowNull: true
+  },
+  current_latitude: {
+    type: DataTypes.DECIMAL(10, 6),
+    allowNull: true
+  },
+  current_longitude: {
+    type: DataTypes.DECIMAL(10, 6),
+    allowNull: true
+  },
+  current_postalcode: {
+    type: DataTypes.STRING(15),
+    allowNull: true
+  },
+  current_region: {
+    type: DataTypes.STRING(100),
+    allowNull: true
+  },
+  current_time_zone: {
+    type: DataTypes.STRING(10),
+    allowNull: true
+  },
   app_language: {
     type: DataTypes.STRING(2),
     allowNull: false,
@@ -84,6 +116,42 @@ var Settings = db.dbApi.define('settings', {
     {
       fields: ['uuid'],
       unique: true
+    },
+    {
+      fields: ['current_ip_address']
+    },
+    {
+      fields: ['app_language']
+    },
+    {
+      fields: ['app_always_on_top']
+    },
+    {
+      fields: ['app_launch_at_startup']
+    },
+    {
+      fields: ['app_launch_icon']
+    },
+    {
+      fields: ['layout_current_temp']
+    },
+    {
+      fields: ['layout_weather_map']
+    },
+    {
+      fields: ['units_temperature']
+    },
+    {
+      fields: ['units_time']
+    },
+    {
+      fields: ['units_accumulation']
+    },
+    {
+      fields: ['units_wind_speed']
+    },
+    {
+      fields: ['units_pressure']
     }
   ]
 });

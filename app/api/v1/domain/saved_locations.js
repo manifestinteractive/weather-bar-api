@@ -1,28 +1,28 @@
 /**
- * @module domain/settings
+ * @module domain/saved_locations
  * @version 1.0.0
  * @author Peter Schmalfeldt <me@peterschmalfeldt.com>
  */
 
-var Settings = require('../../../models/weatherbar/settings');
+var SavedLocations = require('../../../models/weatherbar/saved_locations');
 
 /**
- * Domain Settings
+ * Domain SavedLocations
  * @type {object}
  */
 module.exports = {
   get: function (uuid) {
-    return Settings.findOne({
+    return SavedLocations.findOne({
       where: {
         uuid: uuid
       }
     })
-    .then(function(settings) {
-      return (settings) ? settings.dataValues : null;
+    .then(function(saved_locations) {
+      return (saved_locations) ? saved_locations.dataValues : null;
     });
   },
   init: function (uuid) {
-    return Settings.create({
+    return SavedLocations.create({
       uuid: uuid
     })
     .then(function(created) {
@@ -31,17 +31,17 @@ module.exports = {
   },
   update: function (uuid, key, value) {
     if (uuid && key && value) {
-      return Settings.findOne({
+      return SavedLocations.findOne({
           where: {
             uuid: uuid
           }
         })
-        .then(function(settings) {
-          if (settings) {
-            settings.set(key, value);
-            settings.save();
+        .then(function(saved_locations) {
+          if (saved_locations) {
+            saved_locations.set(key, value);
+            saved_locations.save();
 
-            return (settings) ? settings.dataValues : null;
+            return (saved_locations) ? saved_locations.dataValues : null;
           } else {
             return Promise.reject('No user found with ID ' + uuid);
           }
