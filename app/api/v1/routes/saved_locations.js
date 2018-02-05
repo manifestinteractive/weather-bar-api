@@ -38,8 +38,8 @@ router.route('/saved_locations/uuid/:uuid').get(function(request, response) {
  * @name [POST] /saved_locations/uuid/:uuid
  */
 /* istanbul ignore next */
-router.route('/saved_locations/uuid/:uuid').post(function(request, response) {
-  saved_locations.init(request.params.uuid)
+router.route('/saved_locations/new').post(function(request, response) {
+  saved_locations.save(request.body)
     .then(function(data) {
       response.json(util.createAPIResponse({
         data: data

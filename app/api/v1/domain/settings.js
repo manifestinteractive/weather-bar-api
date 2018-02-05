@@ -38,7 +38,7 @@ module.exports = {
         })
         .then(function(settings) {
           if (settings) {
-            settings.set(key, value);
+            settings.set(key, value.replace('__', '/'));
             settings.save();
 
             return (settings) ? settings.dataValues : null;

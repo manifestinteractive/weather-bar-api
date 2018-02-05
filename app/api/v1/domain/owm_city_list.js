@@ -29,6 +29,9 @@ module.exports = {
   prepareForAPIOutput: function(data) {
     var fields = [
       'owm_city_id',
+      'owm_city_name',
+      'admin_level_1_short',
+      'country_short',
       'display_name_short',
       'location'
     ];
@@ -51,6 +54,7 @@ module.exports = {
 
     return {
       owm_city_id: data.owm_city_id,
+      owm_city_name: data.owm_city_name,
       owm_latitude: parseFloat(data.owm_latitude),
       owm_longitude: parseFloat(data.owm_longitude),
       owm_country: data.owm_country,
@@ -113,8 +117,8 @@ module.exports = {
     searchParams.from = (page - 1) * searchParams.size;
 
     // Sorting
-    var sort = (query.sort) ? query.sort.split(',') : ['display_name_short'];
-    var order = (query.order) ? query.order.toLowerCase().split(',') : ['asc'];
+    var sort = (query.sort) ? query.sort.split(',') : ['owm_city_name', 'display_name_short'];
+    var order = (query.order) ? query.order.toLowerCase().split(',') : ['asc', 'asc'];
 
     searchParams.body.sort = {};
 
@@ -139,6 +143,7 @@ module.exports = {
             query: '*' + keywords[i] + '*',
             type: 'best_fields',
             fields: [
+              'owm_city_name^3',
               'admin_level_1_long',
               'admin_level_1_short',
               'admin_level_2_long',

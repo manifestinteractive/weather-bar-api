@@ -12,38 +12,54 @@ var SavedLocations = require('../../../models/weatherbar/saved_locations');
  */
 module.exports = {
   get: function (uuid) {
-    return SavedLocations.findOne({
+    return SavedLocations.findAll({
       where: {
         uuid: uuid
-      }
+      },
+      order: [
+        ['city_name', 'ASC']
+      ]
     })
     .then(function(saved_locations) {
-      return (saved_locations) ? saved_locations.dataValues : null;
+      return (saved_locations) ? saved_locations : [];
     });
   },
-  init: function (uuid) {
-    return SavedLocations.create({
-      uuid: uuid
-    })
-    .then(function(created) {
-      return (created) ? created.dataValues : null;
-    });
-  },
-  update: function (uuid, key, value) {
-    if (uuid && key && value) {
+  save: function (data) {
+    if (data && typeof data.uuid !== 'undefined' &&typeof data.hash_key !== 'undefined' && typeof data.city_name !== 'undefined' && typeof data.owm_city_id !== 'undefined' && typeof data.latitude !== 'undefined' && typeof data.longitude !== 'undefined') {
+      console.log('SAVE', data);
       return SavedLocations.findOne({
           where: {
-            uuid: uuid
+            uuid: data.uuid,
+            hash_key: data.hash_key
           }
         })
         .then(function(saved_locations) {
           if (saved_locations) {
-            saved_locations.set(key, value);
+            saved_locations.set('city_name', data.city_name);
+            saved_locations.set('region', data.region);
+            saved_locations.set('country', data.country);
+            saved_locations.set('owm_city_id', data.owm_city_id);
+            saved_locations.set('latitude', data.latitude);
+            saved_locations.set('longitude', data.longitude);
+            saved_locations.set('time_zone', data.time_zone);
             saved_locations.save();
 
             return (saved_locations) ? saved_locations.dataValues : null;
           } else {
-            return Promise.reject('No user found with ID ' + uuid);
+            return SavedLocations.create({
+              uuid: data.uuid,
+              hash_key: data.hash_key,
+              city_name: data.city_name,
+              region: data.region,
+              country: data.country,
+              owm_city_id: data.owm_city_id,
+              time_zone: data.time_zone,
+              latitude: data.latitude,
+              longitude: data.longitude
+            })
+            .then(function(created) {
+              return (created) ? created.dataValues : null;
+            });
           }
         });
     } else {

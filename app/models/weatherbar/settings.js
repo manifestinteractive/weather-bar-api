@@ -53,7 +53,7 @@ var Settings = db.dbApi.define('settings', {
     allowNull: true
   },
   current_time_zone: {
-    type: DataTypes.STRING(10),
+    type: DataTypes.STRING(50),
     allowNull: true
   },
   app_language: {

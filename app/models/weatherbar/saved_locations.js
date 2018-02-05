@@ -29,6 +29,10 @@ var SavedLocations = db.dbApi.define('saved_locations', {
     type: DataTypes.STRING(36),
     allowNull: false
   },
+  hash_key: {
+    type: DataTypes.STRING(37),
+    allowNull: false
+  },
   primary : {
     type: DataTypes.BOOLEAN,
     allowNull: false,
@@ -36,6 +40,14 @@ var SavedLocations = db.dbApi.define('saved_locations', {
   },
   city_name: {
     type: DataTypes.STRING,
+    allowNull: false
+  },
+  region: {
+    type: DataTypes.STRING,
+    allowNull: false
+  },
+  country: {
+    type: DataTypes.STRING(2),
     allowNull: false
   },
   owm_city_id: {
@@ -50,18 +62,14 @@ var SavedLocations = db.dbApi.define('saved_locations', {
     type: DataTypes.DECIMAL(10, 6),
     allowNull: true
   },
+  time_zone: {
+    type: DataTypes.STRING,
+    allowNull: true
+  },
 }, {
   indexes: [
     {
-      fields: ['uuid', 'latitude', 'longitude'],
-      unique: true
-    },
-    {
-      fields: ['uuid', 'owm_city_id'],
-      unique: true
-    },
-    {
-      fields: ['uuid', 'primary'],
+      fields: ['uuid', 'hash_key'],
       unique: true
     },
     {
@@ -72,6 +80,9 @@ var SavedLocations = db.dbApi.define('saved_locations', {
     },
     {
       fields: ['owm_city_id']
+    },
+    {
+      fields: ['time_zone']
     }
   ]
 });
