@@ -14,11 +14,7 @@ ARG2=2
 COMMAND=${!ARG1}
 OPTION=${!ARG2}
 
-API_PORT="$(underscore select '.port' --outfmt 'text' --in 'app/config/local.json')"
-
-if [[ -z $API_PORT ]]; then
-  API_PORT=5000
-fi
+API_PORT=5000
 
 NX=""
 ES=""
