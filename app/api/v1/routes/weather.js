@@ -13,7 +13,7 @@ var util = require('./util');
 var router = express.Router(config.router);
 
 /**
- * Legislators
+ * Current Weather for City ID
  * @memberof module:routes/weather
  * @name [GET] /weather/current/:cityid
  * @property {string} cityid - Open Weather Map City ID
@@ -50,50 +50,13 @@ router.route('/weather/current/id/:cityid').get(function(request, response) {
   });
 });
 
-/**
- * Legislators
- * @memberof module:routes/weather
- * @name [GET] /weather/current/zipcode/:zipcode
- * @property {string} zipcode - Zip Code
- */
-/* istanbul ignore next */
-router.route('/weather/current/zipcode/:zipcode').get(function(request, response) {
-  var zipcode = request.params.zipcode;
-  var url = 'https://api.openweathermap.org/data/2.5/weather?zip=' + zipcode + '&appid=' + config.get('openweathermap.key');
-
-  external.getContent(url, 300).then(function (content){
-    var weather = JSON.parse(content);
-    var cache = weather.wbcache;
-    delete weather.wbcache;
-
-    if (!cache.cached) {
-      response.setHeader("Cache-Control", "public, max-age=300");
-      response.setHeader("Expires", new Date(Date.now() + 300000).toUTCString());
-    } else {
-      response.status(304);
-    }
-
-    response.json(util.createAPIResponse({
-      cache: cache,
-      data: weather
-    }, request.query.fields));
-  }).catch(function (error){
-    var message = (error && error.message) ? error.message : '';
-
-    message += '. Unable to Fetch Weather for Zipcode ' + zipcode;
-
-    response.json(util.createAPIResponse({
-      errors: [message]
-    }, request.query.fields));
-  });
-});
 
 /**
- * Legislators
+ * Current Weather for Geographic Location
  * @memberof module:routes/weather
  * @name [GET] /weather/current/geo/:latitude/:longitude
- * @property {float} latitude - GPS Latitude ( required if also passing over `longitude` )
- * @property {float} longitude - GPS Longitude ( required if also passing over `latitude` )
+ * @property {float} latitude - GPS Latitude
+ * @property {float} longitude - GPS Longitude
  */
 /* istanbul ignore next */
 router.route('/weather/current/geo/:latitude/:longitude').get(function(request, response) {
@@ -121,6 +84,84 @@ router.route('/weather/current/geo/:latitude/:longitude').get(function(request, 
     var message = (error && error.message) ? error.message : '';
 
     message += '. Unable to Fetch Weather Geo for ' + latitude + ' ' + longitude;
+
+    response.json(util.createAPIResponse({
+      errors: [message]
+    }, request.query.fields));
+  });
+});
+
+/**
+ * Get Weather Forecast for City ID
+ * @memberof module:routes/weather
+ * @name [GET] /weather/forecast/:cityid
+ * @property {string} cityid - Open Weather Map City ID
+ */
+/* istanbul ignore next */
+router.route('/weather/forecast/id/:cityid').get(function(request, response) {
+  var id = request.params.cityid;
+  var url = 'https://api.openweathermap.org/data/2.5/forecast?cnt=15&id=' + id + '&appid=' + config.get('openweathermap.key');
+
+  external.getContent(url, 300).then(function (content){
+    var weather = JSON.parse(content);
+    var cache = weather.wbcache;
+    delete weather.wbcache;
+
+    if (!cache.cached) {
+      response.setHeader("Cache-Control", "public, max-age=300");
+      response.setHeader("Expires", new Date(Date.now() + 300000).toUTCString());
+    } else {
+      response.status(304);
+    }
+
+    response.json(util.createAPIResponse({
+      cache: cache,
+      data: weather
+    }, request.query.fields));
+  }).catch(function (error){
+    var message = (error && error.message) ? error.message : '';
+
+    message += '. Unable to Fetch Weather Forecast for City ID ' + id;
+
+    response.json(util.createAPIResponse({
+      errors: [message]
+    }, request.query.fields));
+  });
+});
+
+/**
+ * Get Weather Forecast for Geographic Location
+ * @memberof module:routes/weather
+ * @name [GET] /weather/forecast/geo/:latitude/:longitude
+ * @property {float} latitude - GPS Latitude
+ * @property {float} longitude - GPS Longitude
+ */
+/* istanbul ignore next */
+router.route('/weather/forecast/geo/:latitude/:longitude').get(function(request, response) {
+  var latitude = request.params.latitude;
+  var longitude = request.params.longitude;
+  var url = 'https://api.openweathermap.org/data/2.5/forecast?cnt=15&lat=' + latitude + '&lon=' + longitude + '&appid=' + config.get('openweathermap.key');
+
+  external.getContent(url, 300).then(function (content){
+    var weather = JSON.parse(content);
+    var cache = weather.wbcache;
+    delete weather.wbcache;
+
+    if (!cache.cached) {
+      response.setHeader("Cache-Control", "public, max-age=300");
+      response.setHeader("Expires", new Date(Date.now() + 300000).toUTCString());
+    } else {
+      response.status(304);
+    }
+
+    response.json(util.createAPIResponse({
+      cache: cache,
+      data: weather
+    }, request.query.fields));
+  }).catch(function (error){
+    var message = (error && error.message) ? error.message : '';
+
+    message += '. Unable to Fetch Weather Geo Forecast for ' + latitude + ' ' + longitude;
 
     response.json(util.createAPIResponse({
       errors: [message]

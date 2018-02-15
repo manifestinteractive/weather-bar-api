@@ -53,4 +53,25 @@ router.route('/saved_locations/new').post(function(request, response) {
     });
 });
 
+/**
+ * SavedLocations
+ * @memberof module:routes/saved_locations
+ * @name [GET] /saved_locations/uuid/:uuid
+ */
+/* istanbul ignore next */
+router.route('/saved_locations/uuid/:uuid/:hash_key').delete(function(request, response) {
+  saved_locations.delete(request.params.uuid, request.params.hash_key)
+    .then(function() {
+      response.json(util.createAPIResponse({
+        data: []
+      }, request.query.fields));
+    })
+    .catch(function(errors) {
+      response.status(400);
+      response.json(util.createAPIResponse({
+        errors: [errors.toString()]
+      }, request.query.fields));
+    });
+});
+
 module.exports = router;

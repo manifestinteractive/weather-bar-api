@@ -30,7 +30,7 @@ var dbOptions = {
     charset: 'utf8mb4',
     collate: 'utf8mb4_general_ci',
     timestamps: true,
-    paranoid: true,
+    paranoid: false,
     createdAt: 'created_date',
     updatedAt: 'modified_date'
   }

@@ -26,7 +26,6 @@ module.exports = {
   },
   save: function (data) {
     if (data && typeof data.uuid !== 'undefined' &&typeof data.hash_key !== 'undefined' && typeof data.city_name !== 'undefined' && typeof data.owm_city_id !== 'undefined' && typeof data.latitude !== 'undefined' && typeof data.longitude !== 'undefined') {
-      console.log('SAVE', data);
       return SavedLocations.findOne({
           where: {
             uuid: data.uuid,
@@ -61,6 +60,21 @@ module.exports = {
               return (created) ? created.dataValues : null;
             });
           }
+        });
+    } else {
+      return Promise.reject('Request Invalid');
+    }
+  },
+  delete: function (uuid, hash_key) {
+    if (typeof uuid !== 'undefined' && typeof hash_key !== 'undefined') {
+      return SavedLocations.destroy({
+          where: {
+            uuid: uuid,
+            hash_key: hash_key
+          }
+        })
+        .then(function(deleted) {
+          return (deleted) ? deleted.dataValues : null;
         });
     } else {
       return Promise.reject('Request Invalid');
