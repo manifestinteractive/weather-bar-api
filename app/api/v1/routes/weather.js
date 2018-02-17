@@ -100,7 +100,7 @@ router.route('/weather/current/geo/:latitude/:longitude').get(function(request, 
 /* istanbul ignore next */
 router.route('/weather/forecast/id/:cityid').get(function(request, response) {
   var id = request.params.cityid;
-  var url = 'https://api.openweathermap.org/data/2.5/forecast/daily?cnt=16&id=' + id + '&appid=' + config.get('openweathermap.key');
+  var url = 'https://api.openweathermap.org/data/2.5/forecast/daily?id=' + id + '&appid=' + config.get('openweathermap.key') + '&cnt=16';
 
   external.getContent(url, 3600).then(function (content){
     var weather = JSON.parse(content);
@@ -140,7 +140,7 @@ router.route('/weather/forecast/id/:cityid').get(function(request, response) {
 router.route('/weather/forecast/geo/:latitude/:longitude').get(function(request, response) {
   var latitude = request.params.latitude;
   var longitude = request.params.longitude;
-  var url = 'https://api.openweathermap.org/data/2.5/forecast/daily?cnt=16&lat=' + latitude + '&lon=' + longitude + '&appid=' + config.get('openweathermap.key');
+  var url = 'https://api.openweathermap.org/data/2.5/forecast/daily?lat=' + latitude + '&lon=' + longitude + '&appid=' + config.get('openweathermap.key') + '&cnt=16';
 
   external.getContent(url, 3600).then(function (content){
     var weather = JSON.parse(content);
