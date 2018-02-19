@@ -87,7 +87,7 @@ var Settings = db.dbApi.define('settings', {
     defaultValue: 'standard'
   },
   units_temperature: {
-    type: DataTypes.ENUM('fahrenheit','celcius'),
+    type: DataTypes.ENUM('fahrenheit','celsius'),
     allowNull: false,
     defaultValue: 'fahrenheit'
   },
