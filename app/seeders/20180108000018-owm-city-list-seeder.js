@@ -20,7 +20,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "143560",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -44,7 +44,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "347700",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -68,7 +68,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "346170",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -92,7 +92,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "171573",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -116,7 +116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "346200",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -140,7 +140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "606210",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "346970",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -188,7 +188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "309000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -212,7 +212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "164173",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -236,7 +236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "403901",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -260,7 +260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "309640",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -284,7 +284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "403171",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -308,7 +308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "186420",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -332,7 +332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "347612",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -356,7 +356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "347660",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -380,7 +380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "399770",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -404,7 +404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "301840",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -428,7 +428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "347320",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -452,7 +452,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RU",
 				country_long: "Russia",
-				postal_code: "393310",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -500,7 +500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -524,7 +524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3004",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -548,7 +548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3220",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -572,7 +572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -596,7 +596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4350",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -620,7 +620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6007",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -644,7 +644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2160",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -668,7 +668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2026",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -692,7 +692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3128",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -716,7 +716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2150",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -740,7 +740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2120",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -764,7 +764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2154",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -788,7 +788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2137",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -812,7 +812,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4870",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -836,7 +836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2066",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -860,7 +860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4217",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -884,7 +884,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3350",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -908,7 +908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2132",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -932,7 +932,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3150",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -956,7 +956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6225",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -980,7 +980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2067",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1004,7 +1004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4680",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1028,7 +1028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2641",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1052,7 +1052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3186",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1076,7 +1076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2101",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1100,7 +1100,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "7316",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1124,7 +1124,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3124",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1148,7 +1148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1172,7 +1172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3722",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1196,7 +1196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2089",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1220,7 +1220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4105",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1244,7 +1244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2044",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1268,7 +1268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4551",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1292,7 +1292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4215",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1316,7 +1316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5092",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1340,7 +1340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4670",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1364,7 +1364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2575",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1388,7 +1388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4877",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1412,7 +1412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3056",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1436,7 +1436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2541",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1460,7 +1460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2148",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1484,7 +1484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5114",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1508,7 +1508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2166",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1532,7 +1532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "7005",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1556,7 +1556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2820",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1580,7 +1580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2840",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1604,7 +1604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2299",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1628,7 +1628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2594",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1652,7 +1652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1676,7 +1676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2327",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1700,7 +1700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2034",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1724,7 +1724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4700",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1748,7 +1748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3550",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1772,7 +1772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4109",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1796,7 +1796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6014",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1820,7 +1820,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3840",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1844,7 +1844,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2323",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1868,7 +1868,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6008",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1892,7 +1892,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2617",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1916,7 +1916,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2065",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1940,7 +1940,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2047",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1964,7 +1964,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4178",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1988,7 +1988,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5245",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2012,7 +2012,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2036,7 +2036,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2576",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2060,7 +2060,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "7250",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2084,7 +2084,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5290",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2108,7 +2108,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6111",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2132,7 +2132,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5043",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2156,7 +2156,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3162",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2180,7 +2180,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2234",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2204,7 +2204,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2680",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2228,7 +2228,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4405",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2252,7 +2252,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2276,7 +2276,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2081",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2300,7 +2300,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2630",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2324,7 +2324,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3844",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2348,7 +2348,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3028",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2372,7 +2372,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5118",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2396,7 +2396,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2322",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2420,7 +2420,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2640",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2444,7 +2444,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5162",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2468,7 +2468,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2088",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2492,7 +2492,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2062",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2516,7 +2516,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2580",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2540,7 +2540,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2226",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2564,7 +2564,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2232",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2588,7 +2588,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2612,7 +2612,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "7320",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2636,7 +2636,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "7310",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2660,7 +2660,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2324",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2684,7 +2684,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3212",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2708,7 +2708,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2750",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2732,7 +2732,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2141",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2756,7 +2756,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2211",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2780,7 +2780,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6160",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2804,7 +2804,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5037",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2828,7 +2828,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4805",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2852,7 +2852,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2070",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2876,7 +2876,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "0850",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2900,7 +2900,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2031",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2924,7 +2924,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6330",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2948,7 +2948,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2261",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2972,7 +2972,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3337",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2996,7 +2996,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6102",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3020,7 +3020,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2518",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3044,7 +3044,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3677",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3068,7 +3068,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2228",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3092,7 +3092,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2072",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3116,7 +3116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2100",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3140,7 +3140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6430",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3164,7 +3164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6210",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3188,7 +3188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "7009",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3212,7 +3212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4076",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3236,7 +3236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3260,7 +3260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3280",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3284,7 +3284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3172",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3308,7 +3308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3332,7 +3332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2551",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3356,7 +3356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3300",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3380,7 +3380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6302",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3404,7 +3404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4860",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3428,7 +3428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2340",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3452,7 +3452,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2227",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3476,7 +3476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2333",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3500,7 +3500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5251",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3524,7 +3524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3168",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3548,7 +3548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6153",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3572,7 +3572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2068",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3596,7 +3596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3620,7 +3620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3644,7 +3644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6725",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3668,7 +3668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6232",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3692,7 +3692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2783",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3716,7 +3716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2790",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3740,7 +3740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5253",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3764,7 +3764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3184",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3788,7 +3788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2087",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3812,7 +3812,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2720",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3836,7 +3836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3850",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3860,7 +3860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2795",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3884,7 +3884,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2066",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3908,7 +3908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2871",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3932,7 +3932,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4304",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3956,7 +3956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5355",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3980,7 +3980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4004,7 +4004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2118",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4028,7 +4028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2162",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4052,7 +4052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2222",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4076,7 +4076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2220",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4100,7 +4100,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4557",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4124,7 +4124,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2250",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4148,7 +4148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3765",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4172,7 +4172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4370",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4196,7 +4196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3875",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4220,7 +4220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "0820",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4244,7 +4244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2440",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4268,7 +4268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2443",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4292,7 +4292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2780",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4316,7 +4316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4650",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4340,7 +4340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6317",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4364,7 +4364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6158",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4388,7 +4388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2767",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4412,7 +4412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4703",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4436,7 +4436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2223",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4460,7 +4460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2210",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4484,7 +4484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6008",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4508,7 +4508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "6054",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4532,7 +4532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4127",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4556,7 +4556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4114",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4580,7 +4580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3224",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4604,7 +4604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "4510",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4628,7 +4628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2142",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4652,7 +4652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2192",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4676,7 +4676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2221",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4700,7 +4700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "3450",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4724,7 +4724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2232",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4748,7 +4748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "5045",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4772,7 +4772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2352",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4796,7 +4796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AU",
 				country_long: "Australia",
-				postal_code: "2156",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			}

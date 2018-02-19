@@ -20,7 +20,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -44,7 +44,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -68,7 +68,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -92,7 +92,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -116,7 +116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "85010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -140,7 +140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24033",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "36030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -188,7 +188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "28010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -212,7 +212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23801",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -236,7 +236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "83045",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -260,7 +260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "73021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -284,7 +284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "29010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -308,7 +308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "36030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -332,7 +332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "40012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -356,7 +356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "39052",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -380,7 +380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24054",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -404,7 +404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -428,7 +428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -452,7 +452,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "56011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -476,7 +476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "07023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -500,7 +500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "32042",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -524,7 +524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "83040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -548,7 +548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "21050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -572,7 +572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "71010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -596,7 +596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "61043",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -620,7 +620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "84030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -644,7 +644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "35010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -668,7 +668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "29010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -692,7 +692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "42023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -716,7 +716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "33042",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -740,7 +740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10090",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -764,7 +764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "37060",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -788,7 +788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "56032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -812,7 +812,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -836,7 +836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10053",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -860,7 +860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "65022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -884,7 +884,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "43011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -908,7 +908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -932,7 +932,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "16012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -956,7 +956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "30142",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -980,7 +980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "53022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1004,7 +1004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "82020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1028,7 +1028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "84032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1052,7 +1052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1076,7 +1076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "33070",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1100,7 +1100,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "07020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1124,7 +1124,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "52021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1148,7 +1148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "84021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1172,7 +1172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "66011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1196,7 +1196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "13862",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1220,7 +1220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10090",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1244,7 +1244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "33070",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1268,7 +1268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "35020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1292,7 +1292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "39051",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1316,7 +1316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "27043",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1340,7 +1340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23883",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1364,7 +1364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "48013",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1388,7 +1388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24053",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1412,7 +1412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "28010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1436,7 +1436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10060",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1460,7 +1460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "36050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1484,7 +1484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "27042",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1508,7 +1508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "42041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1532,7 +1532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "38060",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1556,7 +1556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "39041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1580,7 +1580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "36040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1604,7 +1604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "26822",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1628,7 +1628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1652,7 +1652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1676,7 +1676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "36042",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1700,7 +1700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "31030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1724,7 +1724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "21020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1748,7 +1748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1772,7 +1772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "84082",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1796,7 +1796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "46012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1820,7 +1820,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "37051",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1844,7 +1844,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "35024",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1868,7 +1868,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20813",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1892,7 +1892,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "71023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1916,7 +1916,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "03022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1940,7 +1940,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25073",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1964,7 +1964,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "12012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1988,7 +1988,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25061",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2012,7 +2012,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25082",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2036,7 +2036,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2060,7 +2060,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23842",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2084,7 +2084,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10080",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2108,7 +2108,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "15062",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2132,7 +2132,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "37021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2156,7 +2156,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "08013",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2180,7 +2180,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "16041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2204,7 +2204,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "31030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2228,7 +2228,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "08016",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2252,7 +2252,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25042",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2276,7 +2276,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2300,7 +2300,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "13012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2324,7 +2324,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "43043",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2348,7 +2348,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "40021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2372,7 +2372,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "28040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2396,7 +2396,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "13011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2420,7 +2420,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2444,7 +2444,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2468,7 +2468,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "12011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2492,7 +2492,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "35010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2516,7 +2516,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2540,7 +2540,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10013",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2564,7 +2564,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "46030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2588,7 +2588,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "13040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2612,7 +2612,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "55023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2636,7 +2636,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "51011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2660,7 +2660,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "38051",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2684,7 +2684,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "47030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2708,7 +2708,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "26812",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2732,7 +2732,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10071",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2756,7 +2756,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "42022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2780,7 +2780,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "18012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2804,7 +2804,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "07012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2828,7 +2828,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "07011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2852,7 +2852,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "83032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2876,7 +2876,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "24040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2900,7 +2900,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "36050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2924,7 +2924,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "01023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2948,7 +2948,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "08011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2972,7 +2972,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10012",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2996,7 +2996,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "19020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3020,7 +3020,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "86021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3044,7 +3044,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "16031",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3068,7 +3068,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3092,7 +3092,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "29022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3116,7 +3116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "01010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3140,7 +3140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "08021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3164,7 +3164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "70020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3188,7 +3188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "70020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3212,7 +3212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "64033",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3236,7 +3236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "83044",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3260,7 +3260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20082",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3284,7 +3284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "56031",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3308,7 +3308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3332,7 +3332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "71032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3356,7 +3356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "57020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3380,7 +3380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "42021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3404,7 +3404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20853",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3428,7 +3428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "13041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3452,7 +3452,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "21024",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3476,7 +3476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "06031",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3500,7 +3500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "06084",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3524,7 +3524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "29021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3548,7 +3548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "21023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3572,7 +3572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "21010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3596,7 +3596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "21050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3620,7 +3620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20842",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3644,7 +3644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "25040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3668,7 +3668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "33032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3692,7 +3692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "44033",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3716,7 +3716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3740,7 +3740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "45032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3764,7 +3764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "27021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3788,7 +3788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "07022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3812,7 +3812,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "43042",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3836,7 +3836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3860,7 +3860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "40010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3884,7 +3884,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "12041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3908,7 +3908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "07010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3932,7 +3932,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "60030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3956,7 +3956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "81041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3980,7 +3980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "83020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4004,7 +4004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "00030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4028,7 +4028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "64020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4052,7 +4052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23822",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4076,7 +4076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "22021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4100,7 +4100,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "85051",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4124,7 +4124,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "27011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4148,7 +4148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "37050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4172,7 +4172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "43041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4196,7 +4196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "40053",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4220,7 +4220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "28831",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4244,7 +4244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "08040",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4268,7 +4268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "35041",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4292,7 +4292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "41030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4316,7 +4316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "01030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4340,7 +4340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "33031",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4364,7 +4364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "82020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4388,7 +4388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "38042",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4412,7 +4412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "64030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4436,7 +4436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "23891",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4460,7 +4460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "45020",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4484,7 +4484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "20825",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4508,7 +4508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "85022",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4532,7 +4532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "40052",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4556,7 +4556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "12032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4580,7 +4580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "55051",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4604,7 +4604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "10052",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4628,7 +4628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "37011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4652,7 +4652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "43032",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4676,7 +4676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "50021",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4700,7 +4700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "50031",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4724,7 +4724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "80070",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4748,7 +4748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "86011",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4772,7 +4772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "85050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4796,7 +4796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "IT",
 				country_long: "Italy",
-				postal_code: "35030",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			}

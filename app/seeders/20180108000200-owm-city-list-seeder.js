@@ -20,7 +20,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "784 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -44,7 +44,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "570 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -68,7 +68,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "373 72",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -92,7 +92,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "751 31",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -116,7 +116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "330 21",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -140,7 +140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "273 06",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "411 17",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -188,7 +188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "252 66",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -212,7 +212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "679 61",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -236,7 +236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "561 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -260,7 +260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -284,7 +284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "691 44",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -308,7 +308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "373 11",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -332,7 +332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "584 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -356,7 +356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "507 81",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -380,7 +380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "691 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -404,7 +404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "563 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -428,7 +428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "357 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -452,7 +452,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "697 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -476,7 +476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "768 21",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -500,7 +500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "664 34",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -524,7 +524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "679 72",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -548,7 +548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 13",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -572,7 +572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "439 81",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -596,7 +596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "382 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -620,7 +620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "407 46",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -644,7 +644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "430 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -668,7 +668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "267 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -692,7 +692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 47",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -716,7 +716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "517 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -740,7 +740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "277 13",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -764,7 +764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "281 63",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -788,7 +788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "417 23",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -812,7 +812,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "293 06",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -836,7 +836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "768 05",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -860,7 +860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "507 32",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -884,7 +884,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "798 52",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -908,7 +908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "267 62",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -932,7 +932,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "752 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -956,7 +956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "691 10",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -980,7 +980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "747 27",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1004,7 +1004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "691 72",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1028,7 +1028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "742 83",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1052,7 +1052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "250 67",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1076,7 +1076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "364 61",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1100,7 +1100,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 43",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1124,7 +1124,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "345 06",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1148,7 +1148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "331 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1172,7 +1172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 05",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1196,7 +1196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "186 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1220,7 +1220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "378 21",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1244,7 +1244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "382 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1268,7 +1268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "373 81",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1292,7 +1292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "471 14",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1316,7 +1316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "394 70",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1340,7 +1340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "251 68",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1364,7 +1364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "391 33",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1388,7 +1388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "407 53",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1412,7 +1412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "262 23",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1436,7 +1436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "254 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1460,7 +1460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "407 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1484,7 +1484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "569 43",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1508,7 +1508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "252 42",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1532,7 +1532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "675 31",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1556,7 +1556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "679 06",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1580,7 +1580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "790 70",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1604,7 +1604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "675 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1628,7 +1628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "340 21",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1652,7 +1652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 91",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1676,7 +1676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 23",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1700,7 +1700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "471 25",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1724,7 +1724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "561 64",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1748,7 +1748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "512 43",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1772,7 +1772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "683 23",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1796,7 +1796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "693 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1820,7 +1820,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "768 24",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1844,7 +1844,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 46",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1868,7 +1868,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "664 62",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1892,7 +1892,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "671 67",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1916,7 +1916,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "549 31",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1940,7 +1940,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "417 04",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1964,7 +1964,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "351 24",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1988,7 +1988,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "463 34",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2012,7 +2012,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "338 42",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2036,7 +2036,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "747 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2060,7 +2060,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "696 12",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2084,7 +2084,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2108,7 +2108,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "543 71",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2132,7 +2132,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 22",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2156,7 +2156,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "346 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2180,7 +2180,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "268 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2204,7 +2204,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "735 42",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2228,7 +2228,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "735 35",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2252,7 +2252,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "357 31",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2276,7 +2276,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "193 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2300,7 +2300,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "382 26",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2324,7 +2324,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "788 05",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2348,7 +2348,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "435 43",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2372,7 +2372,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "330 12",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2396,7 +2396,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 57",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2420,7 +2420,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "783 35",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2444,7 +2444,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "508 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2468,7 +2468,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "341 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2492,7 +2492,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "345 62",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2516,7 +2516,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "534 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2540,7 +2540,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "769 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2564,7 +2564,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "147 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2588,7 +2588,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "463 42",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2612,7 +2612,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "687 25",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2636,7 +2636,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "748 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2660,7 +2660,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "373 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2684,7 +2684,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "783 65",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2708,7 +2708,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "539 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2732,7 +2732,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "538 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2756,7 +2756,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "463 62",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2780,7 +2780,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "747 16",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2804,7 +2804,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "788 33",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2828,7 +2828,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "756 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2852,7 +2852,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "747 92",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2876,7 +2876,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "357 09",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2900,7 +2900,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "582 82",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2924,7 +2924,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "742 45",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2948,7 +2948,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "763 16",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2972,7 +2972,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 45",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2996,7 +2996,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "744 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3020,7 +3020,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "351 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3044,7 +3044,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "419 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3068,7 +3068,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "696 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3092,7 +3092,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "683 04",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3116,7 +3116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "517 42",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3140,7 +3140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "344 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3164,7 +3164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "569 61",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3188,7 +3188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "407 82",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3212,7 +3212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "190 12",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3236,7 +3236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "687 62",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3260,7 +3260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "735 53",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3284,7 +3284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "788 05",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3308,7 +3308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "664 64",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3332,7 +3332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "561 02",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3356,7 +3356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "503 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3380,7 +3380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "294 04",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3404,7 +3404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "696 17",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3428,7 +3428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "747 22",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3452,7 +3452,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "783 16",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3476,7 +3476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "472 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3500,7 +3500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "671 82",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3524,7 +3524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "518 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3548,7 +3548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "294 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3572,7 +3572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "588 12",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3596,7 +3596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "263 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3620,7 +3620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "252 29",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3644,7 +3644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "334 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3668,7 +3668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3692,7 +3692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "735 71",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3716,7 +3716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "468 61",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3740,7 +3740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "380 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3764,7 +3764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "471 54",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3788,7 +3788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "391 55",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3812,7 +3812,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "533 12",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3836,7 +3836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "768 11",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3860,7 +3860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "463 31",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3884,7 +3884,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "332 14",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3908,7 +3908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "583 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3932,7 +3932,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "357 35",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3956,7 +3956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "565 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3980,7 +3980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "378 04",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4004,7 +4004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "503 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4028,7 +4028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "403 39",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4052,7 +4052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "334 42",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4076,7 +4076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "403 17",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4100,7 +4100,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "463 43",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4124,7 +4124,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "790 81",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4148,7 +4148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "552 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4172,7 +4172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "549 41",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4196,7 +4196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "561 61",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4220,7 +4220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "252 28",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4244,7 +4244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "503 43",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4268,7 +4268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "679 21",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4292,7 +4292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "257 22",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4316,7 +4316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "250 88",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4340,7 +4340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 12",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4364,7 +4364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "696 15",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4388,7 +4388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "696 81",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4412,7 +4412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "768 61",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4436,7 +4436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "593 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4460,7 +4460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "257 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4484,7 +4484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 95",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4508,7 +4508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "273 43",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4532,7 +4532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "411 18",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4556,7 +4556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "747 87",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4580,7 +4580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "685 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4604,7 +4604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "687 08",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4628,7 +4628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "739 44",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4652,7 +4652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "588 32",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4676,7 +4676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "751 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4700,7 +4700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "793 51",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4724,7 +4724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "356 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4748,7 +4748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "262 72",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4772,7 +4772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "338 24",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4796,7 +4796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "CZ",
 				country_long: "Czechia",
-				postal_code: "687 09",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			}

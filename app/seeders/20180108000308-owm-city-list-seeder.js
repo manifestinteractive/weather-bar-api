@@ -20,7 +20,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4585",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -44,7 +44,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4850",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -68,7 +68,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4730",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -92,7 +92,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4830",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -116,7 +116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4805",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -140,7 +140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3350",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4415",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -188,7 +188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4560",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -212,7 +212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4425",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -236,7 +236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3860-424",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -260,7 +260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4590",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -284,7 +284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4535",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -308,7 +308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3810",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -332,7 +332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3400",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -356,7 +356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3720",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -380,7 +380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4705",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -404,7 +404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3770",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -428,7 +428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -452,7 +452,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4795",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -476,7 +476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4515-588",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -500,7 +500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "5200-279",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -524,7 +524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3220",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -548,7 +548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4475-347",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -572,7 +572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -596,7 +596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4740",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -620,7 +620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4610",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -644,7 +644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3530",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -668,7 +668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3730",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -692,7 +692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4620",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -716,7 +716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3200",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -740,7 +740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3360",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -764,7 +764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4815",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -788,7 +788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4580",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -812,7 +812,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4505",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -836,7 +836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3090-461",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -860,7 +860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "5100",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -884,7 +884,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4535",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -908,7 +908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4510",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -932,7 +932,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4770",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -956,7 +956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4405",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -980,7 +980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4460",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1004,7 +1004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4415",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1028,7 +1028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "5050",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1052,7 +1052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4750",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1076,7 +1076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3830",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1100,7 +1100,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "6230",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1124,7 +1124,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3080",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1148,7 +1148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4505",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1172,7 +1172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4590",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1196,7 +1196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1220,7 +1220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3885",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1244,7 +1244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3800",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1268,7 +1268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "5400-164",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1292,7 +1292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3600-132",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1316,7 +1316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3430-035",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1340,7 +1340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3060-197",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1364,7 +1364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4410-273",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1388,7 +1388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4805",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1412,7 +1412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4440",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1436,7 +1436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3515",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1460,7 +1460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4815",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1484,7 +1484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3080",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1508,7 +1508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4620",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1532,7 +1532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4585-038",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1556,7 +1556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4405",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1580,7 +1580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4795",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1604,7 +1604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4490",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1628,7 +1628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3860",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1652,7 +1652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4480",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1676,7 +1676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4505",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1700,7 +1700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4900",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1724,7 +1724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4410",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1748,7 +1748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3780-292",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1772,7 +1772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3810-386",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1796,7 +1796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4740",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1820,7 +1820,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4840",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1844,7 +1844,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4600",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1868,7 +1868,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4445",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1892,7 +1892,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3850",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1916,7 +1916,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3750",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1940,7 +1940,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4495",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1964,7 +1964,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3750",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1988,7 +1988,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "3500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2012,7 +2012,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9680",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2036,7 +2036,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9940",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2060,7 +2060,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2084,7 +2084,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9900",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2108,7 +2108,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9600",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2132,7 +2132,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9760",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2156,7 +2156,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9950",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2180,7 +2180,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9880",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2204,7 +2204,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9900",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2228,7 +2228,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2252,7 +2252,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2276,7 +2276,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "9700",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2300,7 +2300,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PT",
 				country_long: "Portugal",
-				postal_code: "4930",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3716,7 +3716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PY",
 				country_long: "Paraguay",
-				postal_code: "79930-000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4316,7 +4316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "727642",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4340,7 +4340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "737635",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4364,7 +4364,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "516100",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4388,7 +4388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317425",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4436,7 +4436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "537360",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4460,7 +4460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "607690",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4484,7 +4484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "327435",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4556,7 +4556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "127715",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4580,7 +4580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317415",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4652,7 +4652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "727630",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4676,7 +4676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "337550",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4700,7 +4700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "427385",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4724,7 +4724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "527185",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4748,7 +4748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317410",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4772,7 +4772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "527190",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4796,7 +4796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "737621",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			}

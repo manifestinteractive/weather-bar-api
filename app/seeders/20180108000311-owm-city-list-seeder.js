@@ -20,7 +20,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "527150",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -44,7 +44,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "517676",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -68,7 +68,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "427320",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -92,7 +92,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317300",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -140,7 +140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317280",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "717345",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -188,7 +188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "537286",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -260,7 +260,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "547550",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -284,7 +284,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "305600",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -308,7 +308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "307382",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -332,7 +332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "537280",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -356,7 +356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "087205",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -380,7 +380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "107515",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -404,7 +404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "547530",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -428,7 +428,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "707450",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -476,7 +476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "927224",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -500,7 +500,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "537275",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -524,7 +524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "547525",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -548,7 +548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "537265",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -596,7 +596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "507206",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -620,7 +620,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "307375",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -644,7 +644,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "537310",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -692,7 +692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "727485",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -716,7 +716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "417545",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -740,7 +740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "227445",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -764,7 +764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317335",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -836,7 +836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "427315",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -908,7 +908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "427290",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -956,7 +956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317325",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -980,7 +980,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "327335",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1004,7 +1004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "407540",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1076,7 +1076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "507195",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1172,7 +1172,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317295",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1196,7 +1196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "557260",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1220,7 +1220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317290",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1268,7 +1268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317295",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1292,7 +1292,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "435400",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1340,7 +1340,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "557245",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1388,7 +1388,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317285",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1436,7 +1436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "315700",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1508,7 +1508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "147330",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1556,7 +1556,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "147322",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1604,7 +1604,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "147315",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1628,7 +1628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "127564",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1652,7 +1652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "607550",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1676,7 +1676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "107525",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1700,7 +1700,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "235610",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1796,7 +1796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "117650",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1820,7 +1820,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "707435",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1892,7 +1892,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "737403",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1940,7 +1940,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "217531",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2036,7 +2036,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317270",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2060,7 +2060,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "617410",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2084,7 +2084,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "715300",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2156,7 +2156,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "547590",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2180,7 +2180,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "217415",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2276,7 +2276,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "607520",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2324,7 +2324,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "547510",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2348,7 +2348,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "917215",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2396,7 +2396,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "547515",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2420,7 +2420,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "457230",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2468,7 +2468,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "827190",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2492,7 +2492,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "127540",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2516,7 +2516,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "437305",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2540,7 +2540,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "447270",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2564,7 +2564,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "427285",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2588,7 +2588,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "447260",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2612,7 +2612,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "607530",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2636,7 +2636,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "217400",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2708,7 +2708,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "437295",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2732,7 +2732,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "517655",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2756,7 +2756,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "557225",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2804,7 +2804,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "137410",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2828,7 +2828,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "927201",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2876,7 +2876,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "817126",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2948,7 +2948,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "727475",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2972,7 +2972,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "117635",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2996,7 +2996,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "247585",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3068,7 +3068,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "417450",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3092,7 +3092,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "417445",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3116,7 +3116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "127535",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3140,7 +3140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317310",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3188,7 +3188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "127242",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3212,7 +3212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "307395",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3236,7 +3236,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "557220",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3308,7 +3308,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "417435",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3356,7 +3356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "907260",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3380,7 +3380,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "437290",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3404,7 +3404,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "307370",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3524,7 +3524,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "505500",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3548,7 +3548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "137400",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3596,7 +3596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "707421",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3668,7 +3668,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "617390",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3716,7 +3716,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "317235",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3740,7 +3740,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "237375",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3764,7 +3764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "607510",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3788,7 +3788,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "817120",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3836,7 +3836,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "737465",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3860,7 +3860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "217380",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3908,7 +3908,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "557210",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4004,7 +4004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "337410",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4028,7 +4028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "617335",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4076,7 +4076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "717335",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4148,7 +4148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "117626",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4196,7 +4196,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "337381",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4220,7 +4220,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "717325",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4244,7 +4244,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "817110",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4268,7 +4268,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "107057",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4316,7 +4316,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "547485",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4412,7 +4412,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "307350",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4436,7 +4436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "437230",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4460,7 +4460,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "537250",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4484,7 +4484,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "417410",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4508,7 +4508,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "540002",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4628,7 +4628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "237370",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4724,7 +4724,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "117620",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4772,7 +4772,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "425200",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4796,7 +4796,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "RO",
 				country_long: "Romania",
-				postal_code: "737457",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			}

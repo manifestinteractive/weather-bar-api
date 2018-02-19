@@ -20,7 +20,7 @@ module.exports = {
 				admin_level_5_long: "Mikra",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "575 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -44,7 +44,7 @@ module.exports = {
 				admin_level_5_long: "Dion",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "601 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -68,7 +68,7 @@ module.exports = {
 				admin_level_5_long: "Megas Alexandros",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "580 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -92,7 +92,7 @@ module.exports = {
 				admin_level_5_long: "Echedoro",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "570 09",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -116,7 +116,7 @@ module.exports = {
 				admin_level_5_long: "Paralia",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "601 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -140,7 +140,7 @@ module.exports = {
 				admin_level_5_long: "Kalampaki",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "660 31",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: "Iasmos",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "692 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -188,7 +188,7 @@ module.exports = {
 				admin_level_5_long: "Anthemountas",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "630 73",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -212,7 +212,7 @@ module.exports = {
 				admin_level_5_long: "Askion",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "503 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -236,7 +236,7 @@ module.exports = {
 				admin_level_5_long: "Megas Alexandros",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "583 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -260,7 +260,7 @@ module.exports = {
 				admin_level_5_long: "Chortiatis",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "570 10",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -284,7 +284,7 @@ module.exports = {
 				admin_level_5_long: "Feres",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "685 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -308,7 +308,7 @@ module.exports = {
 				admin_level_5_long: "Evropos",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "610 07",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -332,7 +332,7 @@ module.exports = {
 				admin_level_5_long: "Efkarpia",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "564 29",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -356,7 +356,7 @@ module.exports = {
 				admin_level_5_long: "Anthemii",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "592 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -380,7 +380,7 @@ module.exports = {
 				admin_level_5_long: "Epanomi",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "575 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -404,7 +404,7 @@ module.exports = {
 				admin_level_5_long: "Eleftheroupoli",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "641 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -428,7 +428,7 @@ module.exports = {
 				admin_level_5_long: "Miki",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "673 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -452,7 +452,7 @@ module.exports = {
 				admin_level_5_long: "Mygdonia",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "545 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -476,7 +476,7 @@ module.exports = {
 				admin_level_5_long: "Sithonia",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "630 78",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -500,7 +500,7 @@ module.exports = {
 				admin_level_5_long: "Doxato",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "663 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -524,7 +524,7 @@ module.exports = {
 				admin_level_5_long: "Agios Athanasios",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "570 03",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -548,7 +548,7 @@ module.exports = {
 				admin_level_5_long: "Axioupoli",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "614 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -572,7 +572,7 @@ module.exports = {
 				admin_level_5_long: "Chortiatis",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "570 10",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -596,7 +596,7 @@ module.exports = {
 				admin_level_5_long: "Assiros",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "572 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -620,7 +620,7 @@ module.exports = {
 				admin_level_5_long: "Arnaia",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "630 74",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -644,7 +644,7 @@ module.exports = {
 				admin_level_5_long: "Aridea",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "584 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -668,7 +668,7 @@ module.exports = {
 				admin_level_5_long: "Chalastra",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "573 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -692,7 +692,7 @@ module.exports = {
 				admin_level_5_long: "Alistrati",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "620 45",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -716,7 +716,7 @@ module.exports = {
 				admin_level_5_long: "Alexandria",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "593 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -740,7 +740,7 @@ module.exports = {
 				admin_level_5_long: "Eginio",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "603 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -764,7 +764,7 @@ module.exports = {
 				admin_level_5_long: "Eani",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "500 04",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -788,7 +788,7 @@ module.exports = {
 				admin_level_5_long: "Chalkidona",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "570 07",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -812,7 +812,7 @@ module.exports = {
 				admin_level_5_long: "Eirinoupoli",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "590 34",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -836,7 +836,7 @@ module.exports = {
 				admin_level_5_long: "Thessaloniki",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "546 34",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -860,7 +860,7 @@ module.exports = {
 				admin_level_5_long: "Triandria",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "553 37",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -884,7 +884,7 @@ module.exports = {
 				admin_level_5_long: "Corfu",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "491 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -908,7 +908,7 @@ module.exports = {
 				admin_level_5_long: "Corfu",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "491 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -932,7 +932,7 @@ module.exports = {
 				admin_level_5_long: "Kallithea",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "851 00",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -956,7 +956,7 @@ module.exports = {
 				admin_level_5_long: "Paros",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "844 01",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -980,7 +980,7 @@ module.exports = {
 				admin_level_5_long: "Thasos",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "640 02",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1004,7 +1004,7 @@ module.exports = {
 				admin_level_5_long: "Agios Georgios",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "490 83",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1028,7 +1028,7 @@ module.exports = {
 				admin_level_5_long: "Imittos",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "172 37",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1052,7 +1052,7 @@ module.exports = {
 				admin_level_5_long: "Makris Gialos",
 				country_short: "GR",
 				country_long: "Greece",
-				postal_code: "720 55",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},

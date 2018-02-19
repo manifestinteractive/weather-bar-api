@@ -356,7 +356,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "6023",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -956,7 +956,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "5201",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2828,7 +2828,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "6017",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3164,7 +3164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "6306",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3548,7 +3548,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "2601",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4076,7 +4076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "4418",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4148,7 +4148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "3004",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4532,7 +4532,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "5316",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4652,7 +4652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PH",
 				country_long: "Philippines",
-				postal_code: "6109",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},

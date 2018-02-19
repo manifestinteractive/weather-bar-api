@@ -116,7 +116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "2420",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "1220",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -188,7 +188,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "1047",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -212,7 +212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "2326",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -596,7 +596,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "6336",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -764,7 +764,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "1215",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -860,7 +860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "1220",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1076,7 +1076,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "7504",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1916,7 +1916,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MP",
 				country_long: "Northern Mariana Islands",
-				postal_code: "96952",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4148,7 +4148,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MV",
 				country_long: "Maldives",
-				postal_code: "02110",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4580,7 +4580,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MX",
 				country_long: "Mexico",
-				postal_code: "52060",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4628,7 +4628,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MX",
 				country_long: "Mexico",
-				postal_code: "52200",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4676,7 +4676,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MX",
 				country_long: "Mexico",
-				postal_code: "94930",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},

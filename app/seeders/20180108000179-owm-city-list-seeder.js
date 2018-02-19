@@ -44,7 +44,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AM",
 				country_long: "Armenia",
-				postal_code: "0808",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -116,7 +116,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AM",
 				country_long: "Armenia",
-				postal_code: "0813",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -140,7 +140,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AM",
 				country_long: "Armenia",
-				postal_code: "1144",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -164,7 +164,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AM",
 				country_long: "Armenia",
-				postal_code: "0725",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -1028,7 +1028,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AR",
 				country_long: "Argentina",
-				postal_code: "3608",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2516,7 +2516,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AR",
 				country_long: "Argentina",
-				postal_code: "X6140",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3332,7 +3332,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AR",
 				country_long: "Argentina",
-				postal_code: "U9001",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4004,7 +4004,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AR",
 				country_long: "Argentina",
-				postal_code: "D5750",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4052,7 +4052,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AR",
 				country_long: "Argentina",
-				postal_code: "S2520",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4748,7 +4748,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "AR",
 				country_long: "Argentina",
-				postal_code: "X5815",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},

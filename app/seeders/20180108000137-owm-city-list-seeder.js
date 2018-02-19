@@ -212,7 +212,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MA",
 				country_long: "Morocco",
-				postal_code: "85000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -476,7 +476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MA",
 				country_long: "Morocco",
-				postal_code: "10010",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -572,7 +572,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MA",
 				country_long: "Morocco",
-				postal_code: "45000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -860,7 +860,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MC",
 				country_long: "Monaco",
-				postal_code: "98000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2324,7 +2324,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MK",
 				country_long: "Macedonia (FYROM)",
-				postal_code: "1000",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4436,7 +4436,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MP",
 				country_long: "Northern Mariana Islands",
-				postal_code: "96950",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -4652,7 +4652,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "MQ",
 				country_long: "Martinique",
-				postal_code: "97224",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},

@@ -692,7 +692,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PE",
 				country_long: "Peru",
-				postal_code: "14001",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -2540,7 +2540,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PE",
 				country_long: "Peru",
-				postal_code: "15019",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},
@@ -3476,7 +3476,7 @@ module.exports = {
 				admin_level_5_long: null,
 				country_short: "PE",
 				country_long: "Peru",
-				postal_code: "15332",
+				postal_code: null,
 				created_date: new Date(),
 				modified_date: new Date()
 			},

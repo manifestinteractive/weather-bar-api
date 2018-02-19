@@ -77,7 +77,7 @@ var Settings = db.dbApi.define('settings', {
     defaultValue: 'both'
   },
   layout_current_temp: {
-    type: DataTypes.ENUM('actual','feels-like'),
+    type: DataTypes.ENUM('actual','feels_like'),
     allowNull: false,
     defaultValue: 'actual'
   },
@@ -92,9 +92,9 @@ var Settings = db.dbApi.define('settings', {
     defaultValue: 'fahrenheit'
   },
   units_time: {
-    type: DataTypes.ENUM('12-hour','24-hour'),
+    type: DataTypes.ENUM('twelve_hour','twenty_four_hour'),
     allowNull: false,
-    defaultValue: '12-hour'
+    defaultValue: 'twelve_hour'
   },
   units_accumulation: {
     type: DataTypes.ENUM('inches','millimeters'),
