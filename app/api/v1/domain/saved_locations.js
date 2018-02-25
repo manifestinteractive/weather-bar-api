@@ -79,5 +79,13 @@ module.exports = {
     } else {
       return Promise.reject('Request Invalid');
     }
+  },
+  makePrimary: function (uuid, hash_key) {
+    if (typeof uuid !== 'undefined' && typeof hash_key !== 'undefined') {
+      SavedLocations.update({ primary: false }, { where: { uuid: uuid }});
+      return SavedLocations.update({ primary: true }, { where: { uuid: uuid, hash_key: hash_key }});
+    } else {
+      return Promise.reject('Request Invalid');
+    }
   }
 };

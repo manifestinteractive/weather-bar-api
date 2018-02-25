@@ -56,7 +56,7 @@ router.route('/saved_locations/new').post(function(request, response) {
 /**
  * SavedLocations
  * @memberof module:routes/saved_locations
- * @name [GET] /saved_locations/uuid/:uuid
+ * @name [GET] /saved_locations/uuid/:uuid/:hash_key
  */
 /* istanbul ignore next */
 router.route('/saved_locations/uuid/:uuid/:hash_key').delete(function(request, response) {
@@ -64,6 +64,27 @@ router.route('/saved_locations/uuid/:uuid/:hash_key').delete(function(request, r
     .then(function() {
       response.json(util.createAPIResponse({
         data: []
+      }, request.query.fields));
+    })
+    .catch(function(errors) {
+      response.status(400);
+      response.json(util.createAPIResponse({
+        errors: [errors.toString()]
+      }, request.query.fields));
+    });
+});
+
+/**
+ * Make Primary
+ * @memberof module:routes/saved_locations
+ * @name [GET] /saved_locations/primary/:uuid/:hash_key
+ */
+/* istanbul ignore next */
+router.route('/saved_locations/primary/:uuid/:hash_key').post(function(request, response) {
+  saved_locations.makePrimary(request.params.uuid, request.params.hash_key, request.body)
+    .then(function(data) {
+      response.json(util.createAPIResponse({
+        data: data
       }, request.query.fields));
     })
     .catch(function(errors) {
